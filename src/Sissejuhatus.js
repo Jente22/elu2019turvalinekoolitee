@@ -10,19 +10,6 @@ export default class Sissejuhatus extends React.Component {
       <p>  Koolideks valiti kaks kesklinna kooli, Tallinna Inglise kolledz, Kadrioru gümnaasium ja üks nn äärelinna kool, Järveotsa gümaasium. </p>
       <p> “Turvalise koolitee” projekti abil luuakse valimisse kuuluvate koolide õpilastele ja nende vanematele suunatud küsimustikkude põhjal võimalikult adekvaatne pilt kooliümbruses asuvatest liiklusohtusest. Lisaks käsitletakse ka traspordivahendi valikut, selle mõju ja seost lapse liikumisaktiivsusega.</p>
       <p> Käesolev aruanne on koostatud Tallinna Järveotsa Gümnaasiumi näitel. </p>
-      <h4>Rollide jaotus grupis</h4>
-      <table className="table table-striped">
-        <tbody>
-          <tr><th>Info otsimine, allikate töötlemine (Järveotsa gümnaasimiga suhtlemine, küsimustiku edastamine jne)</th><td>Evelin Alamaa </td></tr>
-          <tr><th>Google Drive dokumentide loomine</th><td>Viktoria Lehter</td></tr>
-          <tr><th>Testintervjuu läbiviimine</th><td>Kristi Beljajev</td></tr>
-          <tr><th>Andmete analüüs ja Lastele suunatud vastuste analüüs</th><td>Kristi Beljajev</td></tr>
-          <tr><th>Portfoolio koostamine</th><td>Koostöös rühma liikmetega</td></tr>
-          <tr><th>Kaardistamine</th><td>Koostöös Tallinna linnavalitsuse, ELU-projekti juhendaja ja rühma liikmetega</td></tr>
-          <tr><th>Kokkuvõte</th><td>Koostöös rühma liikmetega</td></tr>
-          <tr><th>Organisatoorsete küsimuste lahendamine, grupijuht</th><td>Ines Safjanova</td></tr>
-        </tbody>
-      </table>
     </div>
   }
 }

@@ -4,8 +4,7 @@ import { Col, Container, Row, Tab, Tabs } from 'react-bootstrap'
 
 import Sissejuhatus from './Sissejuhatus'
 import Aruanne from './Aruanne'
-import Kavand from './Kavand'
-import Kulg from './Kulg'
+import Kava from './Kava'
 import Kokkuvote from './Kokkuvote'
 import Allikad from './Allikad'
 import Vastused from './Vastused'
@@ -16,9 +15,8 @@ export default function App() {
       <Col>
         <Tabs>
           <Tab eventKey="1" title="Sissejuhatus"><Sissejuhatus /></Tab>
-          <Tab eventKey="3" title="Kavand"><Kavand /></Tab>
+          <Tab eventKey="3" title="Kava ja kulg"><Kava /></Tab>
           <Tab eventKey="2" title="Aruanne"><Aruanne /></Tab>
-          <Tab eventKey="4" title="Kulg"><Kulg /></Tab>
           <Tab eventKey="10" title="Laste vastused"><Vastused type="lapsed" /></Tab>
           <Tab eventKey="11" title="Vanemate vastused"><Vastused type="vanemad" /></Tab>
           <Tab eventKey="5" title="Analüüs" >Analüüs</Tab>
