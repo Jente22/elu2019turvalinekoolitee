@@ -18,26 +18,26 @@ export default class Kava extends React.Component {
       <p>3. Kas ja millisel määral tekitab laste autoga kooli toomine koolimaja lähiümbruses liiklusohtlikke olukordi. </p>
       <p>Projekti suunitluses ja valikutes jäeti vabad käed, mida rohkem erinevaid aspekte probleemi ning selle lahendamise juures leiame, seda parem. Peale lühikest arutelu jagunesime kolme rühma. Kuna terve Tallinna linna ohukohtade kaardistamine ja analüüsimine oleks nii lühiaegse projekti raames võimatu, otsustasime ühiselt, et iga rühm keskendub ühe Tallinna üldhariduskooli liikluskäitumise uurimisele. Lõpptulemused, mis edastatakse Tallinna Linnavalitsusele, loome aga kolme grupi koostöös. </p>
       <p>Kohtumisel leppisime grupiga kokku järgmises: </p>
-      •	<p>informatsioon ja materjalid, mis töö jooksul kasutusele tulevad, sisestame ühisesse Google Drive dokumenti </p>
-      •	<p>tulevaseks üldkohtumiseks uurivad kõik projektis osalejad asjakohaseid materjale, varem tehtud uurimistöid ning muid liiklusohutusega seotud statistikaid, andmeid. </p>
-      •	<p>Samuti töötasime läbi võimaluse kasutada Maanteeameti koolitee kaardistamise rakendust ning anda sellele järgmiseks kohtumiseks hinnang. </p>
-      <strong>2. Oktoober 2019</strong>
+      <p>•	informatsioon ja materjalid, mis töö jooksul kasutusele tulevad, sisestame ühisesse Google Drive dokumenti </p>
+      <p>•	tulevaseks üldkohtumiseks uurivad kõik projektis osalejad asjakohaseid materjale, varem tehtud uurimistöid ning muid liiklusohutusega seotud statistikaid, andmeid. </p>
+      <p>•	Samuti töötasime läbi võimaluse kasutada Maanteeameti koolitee kaardistamise rakendust ning anda sellele järgmiseks kohtumiseks hinnang. </p>
+      <strong>2. oktoober 2019</strong>
       <p>Olime ühiselt tutvunud mitmesuguste materjalidega, mida jagati Drive´i dokumendis (vt. allikad). Uuritava kooli osas ei olnud me veel selleks ajaks üksmeelele jõudnud, kuna valikus olid mitmed koolid, sh Tallinna Kesklinna Vene Gümnaasium ja Järveotsa Gümnaasium. Kaalusime koolide puhul erinevaid aspekte, sh. kooli asukohta nii õpilaste koolitee suhtes, kui ka kooliümbruses olevate liikusolukorraga seoses. </p>
       <p>Paika sai spetsiifilisem plaan. Otsustasime, et koolide uurimise viime läbi küsitluste abil, mis on suunatud kooli õpilastele ja nende vanematele. Leppisime kokku, et küsimustikud esitame elektroonilisel kujul ning küsimustiku loob projekti 1. rühma liige Henry Arnhold. Enne küsimustike ülesehituse juurde asumist, arutasime veel läbi, mida oma projektiga saavutada soovime, millised on küsimused ja valukohad, mis vajaksid erilist tähelepanu. Oluliseimad teemad  kajastuvad ühiselt valminud küsimustikes (vt. lisad). </p>
       <strong>3.-15. oktoober</strong>
       <p>Grupisiseselt arutluse käigus jõusdime üksmeelele kooli valiku suhtes. Valitud kooliks sai Tallinna Järveotsa Gümnaasium.Kooli direktor oli meie projektist huvitatud ning lubas omalt poolt abi küsimustike edastamisel.Toimus kokkusaamine otseselt kooliga suhtleva tuumikgrupi liikmete vahel, kus otsustati milliseid konkreetseid samme on edasiseks tegevuseks. </p>
-      <strong>16. Oktoober</strong>
+      <strong>16. oktoober</strong>
       <p>Kuna projektiga on võimalik keskenduda väga mitmetele aspektidele, pidime veelkorra ühiselt oma teemasuunitluse peale mõtlema. Arutlesime, et ehk lapsevanemad ei leiagi, et koolitee oleks lastele ohtlik ning nad viivad lapsi kooli autoga mugavuse vms. eesmärgi tõttu. Vältimaks lõpptulemuste kaldumist projekti eesmärkidest eemale, korraldas iga rühm test-intervjuu ühe lapsevanemaga, mille põhjal saime kindlust oma projekti suunitluse suhtes. Meie rühma test-intervjuu viis läbi ja edastas kõigile rühmadele Kristi Beljajev. </p>
       <p>Testintervjuude analüüsid valmisid veidi enne vahekokkuvõtete esitlemist ja tulemused oli ootuspärased. Loodi valmis küsimustikud ja nende edastamisviis ning muu sellega kaasnev jäi iga rühma enda korraldada. </p>
       <strong>22. oktoober</strong>
       <p>Vahekokkuvõtete esitlemine. Grupitöö oli langenud passiivsesse seisundisse ning seega jäi vahekokkuvõtte kirjaliku osa valmimine üsna viimasele hetkele. Grupijuht tuletas korduvalt rühmaliikmetele meelde, et vahearvestus läheneb ning oleks vaja abi vahekokkuvõtte koostamisel. Kirjaliku kokkuvõtte lõpliku versiooni valmistasid Ines ja Kristi. Vahekokkuvõtte esitlejaks määrati Cevin ja Nika. Esitluse päeval aga ilmnes, et Cevin ei saa esitlusest osa võtta ning Ines võttis sujuvalt selle ülesande enda kanda. Ajanappuse ja kohati puuduliku ettevalmistuse tõttu said meie esitlus ja projekt veidi rohkem kriitikat. </p>
-      <strong>13. November 2019</strong>
+      <strong>13. november 2019</strong>
       <p>Lepiti kokku, et küsimustikkudele vastamise aeg on  2 nädalat al 18.11. Kinnitati küsimustiku viimane versioon. Vastuste kogumine lõppes 1. detsembril. Evelin edastas küsimustikud kooli ettenähtud ajal, kuid segastel põhjustel ei jõutud neid kohe sihtgruppidele edastada. Seetõttu jäi Järveotsa Gümnaasiumi küsimustikkudele  vastamise aeg veidi lühemaks kui 2 nädalat.Sellele vaatamata olid tulemused üle ootuste head. </p>
       <strong>Detsembri 1. nädal</strong>
       <p>Esimese rühma liige Henry jagab küsitluste tulemused koolide kaupa, et grupid saaksid  alustada vastuste analüüsi, millest osad on kvantitatiivsed ning teine osa sisaldas kvalitatiivseid vastuseid. Vaadati üle kõikide gruppide tulemused. Meie rühma uuritud kooli vastuste analüüsijateks on Liza ja Kristi. Määrati projekti lõpptulemuse esitlejad. </p>
-      <strong>12. Detsember- esitlus</strong>
+      <strong>12. detsember - esitlus</strong>
       <p>Esitlus kulges sujuvalt ,ette planeeritult, arusaadavalt  ja sai kuulajaskonnalt sooja vastuvõtu. </p>
-      <strong>Detsember/ Jaanuar</strong>
+      <strong>Detsember-jaanuar</strong>
       <p>Portfoolio redigeerimine. Grupi ühine otsus projekti avalikkusele lihtsama ligipääsetavuse huvides suunata portfoolio drive’st veebilehele. </p>
 
       <h4>Rollide jaotus grupis</h4>
