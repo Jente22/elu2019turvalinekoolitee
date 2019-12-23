@@ -11,7 +11,7 @@ export default class Kava extends React.Component {
 
       <h4>Projekti kulg</h4>
 
-      <strong>19. September 2019. </strong>
+      <strong>19. september 2019 </strong>
       <p>Projekt “Turvaline koolitee” esimene kohtumine projekti juhendaja Heli Ainjärve ning Tallinna Linnavalitsuse liiklusohutuse osakonna esindajatega. Linnavalitsus esitas oma ideed, milleks on eelkõige saada linnaruumi edaspidiseks planeerimiseks sisendit. </p>
       <p>1. millised kohad liikluses on Tallinna üldhariduskoolide õpilaste ning nende lastevanemate arvates ohtlikud; </p>
       <p>2. miks eelistatakse lapsi tuua kooli autoga, mitte lasta neil liikuda üksinda, kas siis ühistranspordiga, jalgsi või mõne muu liiklusvahendiga. </p>
