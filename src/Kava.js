@@ -43,14 +43,16 @@ export default class Kava extends React.Component {
       <h4>Rollide jaotus grupis</h4>
       <table className="table table-striped">
         <tbody>
-          <tr><th>Info otsimine, allikate töötlemine (Järveotsa gümnaasimiga suhtlemine, küsimustiku edastamine jne)</th><td>Evelin Alamaa </td></tr>
-          <tr><th>Google Drive dokumentide loomine</th><td>Viktoria Lehter</td></tr>
-          <tr><th>Testintervjuu läbiviimine</th><td>Kristi Beljajev</td></tr>
-          <tr><th>Andmete analüüs ja Lastele suunatud vastuste analüüs</th><td>Kristi Beljajev</td></tr>
-          <tr><th>Portfoolio koostamine</th><td>Koostöös rühma liikmetega</td></tr>
-          <tr><th>Kaardistamine</th><td>Koostöös Tallinna linnavalitsuse, ELU-projekti juhendaja ja rühma liikmetega</td></tr>
-          <tr><th>Kokkuvõte</th><td>Koostöös rühma liikmetega</td></tr>
-          <tr><th>Organisatoorsete küsimuste lahendamine, grupijuht</th><td>Ines Safjanova</td></tr>
+           <tr><th>Ülesanded</th><th>Rühmaliige</th></tr>
+          <tr><th>Koostöö läbiviimine Järveotsa Gümnaasiumiga, küsimustikkude edastamine koolile ning saadud tulemuste jagamine rühmaga</td><td>Evelin Alamaa </td></tr>
+          <tr><td>Google Drive keskkonnas dokumentide loomine, nende haldamine</td><td>Viktoria Lehter</td></tr>
+          <tr><td>Testintervjuu läbiviimine ja tulemuste edastamine teistele rühmadele, lastele suunatud küsitluste analüüsimine</td><td>Kristi Beljajev</td></tr>
+          <tr><td>Rühma juhtimine, kontaktisik, kirjalike tööde toimetamine, tööde esitamine Moodle keskkonda ning juhendajale. Organisatoorsete küsimuste lahendamine</td><td>Ines Safjanova</td></tr>
+          <tr><td>Lastevanematele suunatud küsimustikkude analüüsimine</td><td>Liza Abramenkova</td></tr>
+          <tr><td>Vahenädala ning lõpuesitluste koostamine, vahenädalal/lõpuesitlusel esinemine</td><td>Nika Nedoseikina</td></tr>
+          <tr><td>Vahenädala ja lõpuesitluste koostamine, vahenädalal/lõpuesitlusel esinemine</td><td>Cevin Anders Siim</td></tr>
+          <tr><td>Portfoolio täiendamine, analüüsimine, redigeerimine, veebileht. </td><td>Laidy Proosväli</td></tr>
+          <tr><td>Portfoolio koostamine ja täiendamine. </td><td>Grupitöö</td></tr>
         </tbody>
       </table>
 
