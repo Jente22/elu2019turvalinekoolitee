@@ -43,8 +43,8 @@ export default class Kava extends React.Component {
       <h4>Rollide jaotus grupis</h4>
       <table className="table table-striped">
         <tbody>
-           <tr><th>Ülesanded</th><th>Rühmaliige</th></tr>
-          <tr><th>Koostöö läbiviimine Järveotsa Gümnaasiumiga, küsimustikkude edastamine koolile ning saadud tulemuste jagamine rühmaga</th><td>Evelin Alamaa </td></tr>
+          <tr><th width="75%">Ülesanded</th><th>Rühmaliige</th></tr>
+          <tr><td>Koostöö läbiviimine Järveotsa Gümnaasiumiga, küsimustikkude edastamine koolile ning saadud tulemuste jagamine rühmaga</td><td>Evelin Alamaa </td></tr>
           <tr><td>Google Drive keskkonnas dokumentide loomine, nende haldamine</td><td>Viktoria Lehter</td></tr>
           <tr><td>Testintervjuu läbiviimine ja tulemuste edastamine teistele rühmadele, lastele suunatud küsitluste analüüsimine</td><td>Kristi Beljajev</td></tr>
           <tr><td>Rühma juhtimine, kontaktisik, kirjalike tööde toimetamine, tööde esitamine Moodle keskkonda ning juhendajale. Organisatoorsete küsimuste lahendamine</td><td>Ines Safjanova</td></tr>
