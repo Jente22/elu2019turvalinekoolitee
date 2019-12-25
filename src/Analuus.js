@@ -26,6 +26,71 @@ export default class Analuus extends React.Component {
 <p><strong> Tervise ja keskkonnamõju</strong></p>
 <p>Üllatuslikult vastati nii tervist mõjutavatele, kui keskonnamõjusid kajastavatele küsimustele võrdselt kõikidele pakutud variantidele. Neid, kes peavad tervisemõju oluliseks on napilt rohkem – 37 kolmekümne viie vastu; ebamäärasel seisukohal on 26 vastajat. Õpilasi, kes liiguvad õues enam kui 60min oli 48% vastanutest, alla 30 minuti liigub ca veerand vastanuist. Keskkonnamõju oluliseks pidajate ja mitteoluliseks pidajate suhe on 34:32. Küsimusele, kui palju kuluks lapsel iseseisvalt kooli jõudmiseks, vastasi 75%, et selleks kulub vähem kui 30 min. Eelnev näitab, et nendes küsimustes on ruumi laste hulgas suuremat teadvustustööd teha.</p>
 
+<p><strong>MIs muutuks kui käiksid iseseisvalt koolis ja millistel tingimustel teeksid seda</strong></p>
+<p>33 korral vastati, et juba käiaksegi iseseisvalt koolis; 22 korral, et see ei muudaks midagi – paraku ei selgu sellistest vastusest, kas mitte midagi ei muutuks seetõttu, et koolis juba käiakse iseseisvalt või seetõttu, et muutust ei peeta oluliseks; 13 korral, et tuleks varem ärgata ja/või ajakulu oleks suurem; 5 korral nimetati positiivset mõju tervisele („hingaksin värsket õhku,“ „oleks parem tervisele,“ „liiguksin rohkem,“ „see rahustaks mind ja saaksin enne/peale kooli vaikuses olla,“ „oleksin koolis vähem väsinud, kui saaksin enne värskes õhus olla,“); 7 korral negatiivset mõju tervisele või üldisele enesetundele („oleks koolitee vähem turvaline, läheks kauem kooli, oleks suurem võimalus jääda haigeks,“ „oleksin rohkem väsinud“, „oleks üksildasem,“ „kardaksin rohkem“); 3 korral nimetati, et oldaks iseseisvam; 3 korral mainiti muid positiivseid mõjusid („tunneksin paremini linna,“ „oleks põnevam,“ „lahe“); 3 korral anti vastuseks „ei tea;“ 2 korral „oleksin vähem laisk“ ja 2 korral, et see muudaks „kõike“ – mida iganes see siis täpsemalt tähendab. </p>
+<p>46 korral vastati, et koolis juba käiaksegi iseseisvalt või oldaks sellega nõus ühtki tingimust esitamata; 11 korral nimetati aega ja vahemaad (kui oleks rohkem aega, kui kool oleks kodule lähemal); 5 korral ilmastikutingimusi (kui ilm oleks hea/parem); 8 korral nimetati tingimusena busside sõidugraafikuid (liikumistihedust) või bussipeatuse kaugust kodunt, mis võiksid olla soodsamad; 6 korral esitati tingimusi teistele inimestele („kui sõbrad käiksid samuti jala/bussiga; „kui saaksin rohkem taskuraha,“ „kui mulle jäetakse arvuti/ps 4 alles“ „kui mul vanemaid poleks ja endal lubasid ei oleks,“ „kui vanematel ei oleks aega“); 3 vastajat ei oleks mingil tingimusel nõus iseseisvalt koolis käima; 2 korral anti vastuseks „ei tea,“ 1 korral seati tingimuseks „kui ma paremini linna tunneksin“ ja ühel korral „kui autoteed oleksid fooristatud.“ </p>
+
+<p><strong> Liikluskäitumine ja ohud kooliteel</strong></p>
+<p> 98% lastest hindab om aliikluskäitumist heaks või väga heaks- liiguvad iseseisvalt turvaliselt.</p>
+<p>Ohtudest toodi välja: 
+Reguleerimata ülekäigurajad – 17 
+Halvasti valgustatud tänavad – 12 
+Pööret lõpetavad juhid ei anna lastele teed – 2 
+Väikesed ohutussaared suure liiklusega teel – 0 
+Suurenenud oht langeda kuriteo ohvriks – 3 
+Sõidukijuhid sõidavad sageli punase fooritulega ristmikule, mida lapsed peavad ületama – 2 
+Ülekäigurajal on parkivate sõidukite tõttu nähtavus piiratud – 2 
+Paljud täiskasvanud näitavad oma liikluskäitumisega lastele halba eeskuju – 1 
+Lubatud sõidukiirust ületavad juhid – 3 
+Minu arvates ei ole kooliteel mingeid ohte – 15 
+Muu – 12 </p>
+
+<p><strong>Laste tähelepanekud</strong></p>
+<p>„Hommikuti pargib kooli ees palju vanemate autosid, seal on väike ristmik, ühed sõidavad ette, mõned teisele poole, pole aru saada, kuhu minna, et mitte auto alla jääda.“
+„Autod ei pane lapsi tähele.“
+„Purjus autojuht sõitis inimesi täis olevasse bussipeatusse.“
+„Kooli sissepääsu ees sõidavad autod.“
+„Pargitakse valedes kohtades, ei lasta lapsi üle ülekäiguraja, purjus autojuht sõitis vastu bussipeatust.“
+„Bussi tagant jooksmine, telefonis olemine, üle tee jooksmine.“
+„Autod võivad kooli ukse ja värava sissepääsu vahele tulla.“
+„Koolihoovi sissesõit.“
+„Hommikuti kui õpetajad ja lapsevanemad sõidavad kooli siis on tee kinni autojuhtidele.“
+„Talvel on väike liumägi kooliväravate vahel ning päris tihti õpilased kukuvad.“
+„Kooli juures on palju autosi. Pimedas kui väike laps jookseb kooli võib autojuht seda mitte märgata ja siis on paha lugu.“
+„Paar autoõnnetust, peaaegu oleks mind auto alla aetud, sest nad on vist pimedad.“
+„Ühel pool aeda ei ole ülekäigurada.“
+„Kooli juures on alati nii palju autosi et raske on üle tee minna. Vahest ei lase autod mind üle tee.“
+20 vastajat ei osanud nimetada ühtki ohtu/pidasid kooliteed turvaliseks; 3 korral oli nimetatud ebameeldivusi, mis ei puuduta otseselt liiklusohutust ja 3 vastajat andsid vastuseks „ei tea.“</p>
+<p>25 korral kirjeldati lastevanemate liiluskäitumist „hea,“ „ohutu,“ „normaalse“ või „ettevaatlikuna;“13 korral toodi lastevanemate käitumises esile negatiivset („kiirustavad,“ „pargivad sinna, kuhu ei tohi,“ „toovad lapsi koolile liiga lähedale/otse ukse ette,“ „ei anna teed“); 7 vastajat nimetasid, et nad ei jälgi lapsevanemate käitumist, kas põhimõtteliselt (2 juhul) või ei ole seda tähele pannud (5 juhul).</p>
+
+<p><strong>Laste lahendused</strong></p>
+<p>„Keelata autode juurdepääsu kooli juurde.“
+„Kooli taga see ristmik on ohtlik paljudele. Ainus tee kus saaks ennast ohust kaugemal hoida on üks kitsas porine ja libe rada kus ei taha paljud kõndida ning peavad kõndima.“
+„(Et) võõrad kooli ette ei sõidaks.“
+„Jah.“
+„Teha mingi jalakäijate tee kooli väravast sissepääsu juurde.“
+„Jah, parem ligipääsetavus koolihoovi ja selle ümbruses.“
+„Rohkem valgust.“
+„Värava sissepääsu nurga avamine või paremini nähtavaks teha.“
+„Ma arvan, et võiks panna mõned märgid selleks, et mõned vanemad ei sõidaks kooli ette.“
+„Kooli võiks minna kõnnitee ja jalakäijate sissekäik peaks olema eraldi autode sissekäigust.“
+„Öösel aknad ja uksed lukku, vaadata kaameraid ja väravad lukus et võõrad sisse ei saaks.“
+„Tõkkepuid panna.“
+24 korral vastati, et kool ei peaks midagi muutma; 6 korral anti vastuseks „ei tea“ ja 2 korral anti ebarealistlik vastus („FBI,“ „politseivalve kooli kõrval“).
+„Lastele eraldi tee.“
+„Mitte lasta lastevanematel lapsi kooli ette viia.“
+„Lapsed võiksid rohkem jalgsi käia ja bussiga sõita.“
+„Valgusfoorid.“
+„Valvur võiks kaameraid vaadata.“
+„Kool annab helkureid neile, kes vajaksid.“
+Nimetati veel mõned üldisemat laadi lahendused – rohkem valgustust, kõnniteid, foore; rohkem politsei valvet; tähelepanelikumalt liigelda, jne. 
+36 õpilast jättis sellele küsimusele üldse vastamata; 12 vastajat pidas olukorda juba niigi heaks, ei näinud vajadust midagi muuta; 10 vastajat andis vastuseks „ei tea.“ </p> 
+
+<p><strong>KOkkuvõte</strong></p>
+<p>Võib öelda, et õpilaste kooli ja koolist koju liikumise viisi valikud on enamjuhtudel põhjendatud ja mõistlikud – jala liiguvad kooli ja kodu vahet kooli lähedal elavad õpilased; ühistranspordi või autoga liigeldakse enamasti siis, kui elatakse koolist kaugel, kui on väga kiire või kui ilm on väga halb. Otsest vanemate survet mingi liikumisviisi valikuks (kindlasti autoga või kindlasti jala/ühistranspordiga) ei saa täheldada; samas on vastajate seas ka lapsi, kes praegu ei käi kooliteed iseseisvalt, kuid sooviksid seda teha, ent nende osakaal ei ole suur. Negatiivse poole pealt torkas silma, et lapsi, kes enda hinnangul liiguvad päevas vaid kuni pool tundi, oli vastanute seas 21.
+Vastuste põhjal ei saa järeldada, et Tallinna Järveotsa Gümnaasiumi ümbrus oleks liiklusohtlikum kui linnas valitsev liiklusolukord keskmiselt, s.t. erilisi suuri ohte ei saa esile tuua.
+Ka on positiivne, et enamus vastajatest hindas oma linnas liiklemise oskusi ja liikluskäitumist heaks või väga heaks; ka lapsevanemate liikluskäitumise osas anti rohkem positiivseid kui negatiivseid hinnanguid.
+Siiski saaks kool üht-teist ära teha, et kooliümbrust veelgi turvalisemaks muuta: keelata ühemõtteliselt laste „treppi“ toomine; korrastada/täiustada kooliümbruse valgustust, jms.</p>
     </div>
   }
 }
