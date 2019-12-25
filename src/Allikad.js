@@ -43,7 +43,7 @@ export default class Allikad extends React.Component {
         </li>
       </ul>
 
-      <ul className="list-group mt-5">
+      <ul className="list-group mt-5 pb-3">
 
         <li className="list-group-item">
           <h4>Küsimustik õpilastele</h4>
