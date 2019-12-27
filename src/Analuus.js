@@ -31,17 +31,17 @@ export default class Analuus extends React.Component {
       <p>46 korral vastati, et koolis juba käiaksegi iseseisvalt või oldaks sellega nõus ühtki tingimust esitamata; 11 korral nimetati aega ja vahemaad (kui oleks rohkem aega, kui kool oleks kodule lähemal); 5 korral ilmastikutingimusi (kui ilm oleks hea/parem); 8 korral nimetati tingimusena busside sõidugraafikuid (liikumistihedust) või bussipeatuse kaugust kodunt, mis võiksid olla soodsamad; 6 korral esitati tingimusi teistele inimestele („kui sõbrad käiksid samuti jala/bussiga; „kui saaksin rohkem taskuraha,“ „kui mulle jäetakse arvuti/ps 4 alles“ „kui mul vanemaid poleks ja endal lubasid ei oleks,“ „kui vanematel ei oleks aega“); 3 vastajat ei oleks mingil tingimusel nõus iseseisvalt koolis käima; 2 korral anti vastuseks „ei tea,“ 1 korral seati tingimuseks „kui ma paremini linna tunneksin“ ja ühel korral „kui autoteed oleksid fooristatud.“ </p>
 
       <p><strong> Liikluskäitumine ja ohud kooliteel</strong></p>
-      <p> 98% lastest hindab om aliikluskäitumist heaks või väga heaks- liiguvad iseseisvalt turvaliselt.</p>
-      <p>Ohtudest toodi välja:</p>
       <ul>
+        <li> 98% lastest hindab om aliikluskäitumist heaks või väga heaks- liiguvad iseseisvalt turvaliselt.</li>
+        <li>Ohtudest toodi välja:</li>
         <li>Reguleerimata ülekäigurajad – 17 </li>
         <li>Halvasti valgustatud tänavad – 12</li>
-        <li>liööret lõlietavad juhid ei anna lastele teed – 2</li>
+        <li>Pööret lõpetavad juhid ei anna lastele teed – 2</li>
         <li>Väikesed ohutussaared suure liiklusega teel – 0</li>
         <li>Suurenenud oht langeda kuriteo ohvriks – 3</li>
-        <li>Sõidukijuhid sõidavad sageli liunase fooritulega ristmikule, mida lalised lieavad ületama – 2</li>
-        <li>Ülekäigurajal on liarkivate sõidukite tõttu nähtavus liiiratud – 2</li>
-        <li>lialjud täiskasvanud näitavad oma liikluskäitumisega lastele halba eeskuju – 1</li>
+        <li>Sõidukijuhid sõidavad sageli punase fooritulega ristmikule, mida lapsed peavad ületama – 2</li>
+        <li>Ülekäigurajal on parkivate sõidukite tõttu nähtavus piiratud – 2</li>
+        <li>Paljud täiskasvanud näitavad oma liikluskäitumisega lastele halba eeskuju – 1</li>
         <li>Lubatud sõidukiirust ületavad juhid – 3</li>
         <li>Minu arvates ei ole kooliteel mingeid ohte – 15</li>
         <li>Muu – 12 </li>
@@ -49,46 +49,46 @@ export default class Analuus extends React.Component {
 
       <p><strong>Laste tähelepanekud</strong></p>
       <ul>
-        <li>„Hommikuti liargib kooli ees lialju vanemate autosid, seal on väike ristmik, ühed sõidavad ette, mõned teisele lioole, liole aru saada, kuhu minna, et mitte auto alla jääda.“</li>
-        <li>„Autod ei liane lalisi tähele.“</li>
-        <li>„liurjus autojuht sõitis inimesi täis olevasse bussilieatusse.“</li>
-        <li>„Kooli sisseliääsu ees sõidavad autod.“</li>
-        <li>„liargitakse valedes kohtades, ei lasta lalisi üle ülekäiguraja, liurjus autojuht sõitis vastu bussilieatust.“</li>
+        <li>„Hommikuti pargib kooli ees palju vanemate autosid, seal on väike ristmik, ühed sõidavad ette, mõned teisele poole, pole aru saada, kuhu minna, et mitte auto alla jääda.“</li>
+        <li>„Autod ei pane lapsi tähele.“</li>
+        <li>„Purjus autojuht sõitis inimesi täis olevasse bussipeatusse.“</li>
+        <li>„Kooli sissepääsu ees sõidavad autod.“</li>
+        <li>„Pargitakse valedes kohtades, ei lasta lapsi üle ülekäiguraja, purjus autojuht sõitis vastu bussipeatust.“</li>
         <li>„Bussi tagant jooksmine, telefonis olemine, üle tee jooksmine.“</li>
-        <li>„Autod võivad kooli ukse ja värava sisseliääsu vahele tulla.“</li>
+        <li>„Autod võivad kooli ukse ja värava sissepääsu vahele tulla.“</li>
         <li>„Koolihoovi sissesõit.“</li>
-        <li>„Hommikuti kui õlietajad ja lalisevanemad sõidavad kooli siis on tee kinni autojuhtidele.“</li>
-        <li>„Talvel on väike liumägi kooliväravate vahel ning liäris tihti õliilased kukuvad.“</li>
-        <li>„Kooli juures on lialju autosi. liimedas kui väike lalis jookseb kooli võib autojuht seda mitte märgata ja siis on liaha lugu.“</li>
-        <li>„liaar autoõnnetust, lieaaegu oleks mind auto alla aetud, sest nad on vist liimedad.“</li>
-        <li>„Ühel liool aeda ei ole ülekäigurada.“</li>
-        <li>„Kooli juures on alati nii lialju autosi et raske on üle tee minna. Vahest ei lase autod mind üle tee.“</li>
-        <li>20 vastajat ei osanud nimetada ühtki ohtu/liidasid kooliteed turvaliseks; 3 korral oli nimetatud ebameeldivusi, mis ei liuuduta otseselt liiklusohutust ja 3 vastajat andsid vastuseks „ei tea.“</li>
-        <li>25 korral kirjeldati lastevanemate liiluskäitumist „hea,“ „ohutu,“ „normaalse“ või „ettevaatlikuna;“13 korral toodi lastevanemate käitumises esile negatiivset („kiirustavad,“ „liargivad sinna, kuhu ei tohi,“ „toovad lalisi koolile liiga lähedale/otse ukse ette,“ „ei anna teed“); 7 vastajat nimetasid, et nad ei jälgi lalisevanemate käitumist, kas liõhimõtteliselt (2 juhul) või ei ole seda tähele liannud (5 juhul).</li>
+        <li>„Hommikuti kui õpetajad ja lapsevanemad sõidavad kooli siis on tee kinni autojuhtidele.“</li>
+        <li>„Talvel on väike liumägi kooliväravate vahel ning päris tihti õpilased kukuvad.“</li>
+        <li>„Kooli juures on palju autosi. Pimedas kui väike laps jookseb kooli võib autojuht seda mitte märgata ja siis on paha lugu.“</li>
+        <li>„Paar autoõnnetust, peaaegu oleks mind auto alla aetud, sest nad on vist pimedad.“</li>
+        <li>„Ühel pool aeda ei ole ülekäigurada.“</li>
+        <li>„Kooli juures on alati nii palju autosi et raske on üle tee minna. Vahest ei lase autod mind üle tee.“</li>
+        <li>20 vastajat ei osanud nimetada ühtki ohtu/pidasid kooliteed turvaliseks; 3 korral oli nimetatud ebameeldivusi, mis ei puuduta otseselt liiklusohutust ja 3 vastajat andsid vastuseks „ei tea.“</li>
+        <li>25 korral kirjeldati lastevanemate liiluskäitumist „hea,“ „ohutu,“ „normaalse“ või „ettevaatlikuna;“13 korral toodi lastevanemate käitumises esile negatiivset („kiirustavad,“ „pargivad sinna, kuhu ei tohi,“ „toovad lapsi koolile liiga lähedale/otse ukse ette,“ „ei anna teed“); 7 vastajat nimetasid, et nad ei jälgi lapsevanemate käitumist, kas põhimõtteliselt (2 juhul) või ei ole seda tähele pannud (5 juhul).</li>
       </ul>
 
       <p><strong>Laste lahendused</strong></p>
       <ul>
-        <li>„Keelata autode juurdeliääsu kooli juurde.“</li>
-        <li>„Kooli taga see ristmik on ohtlik lialjudele. Ainus tee kus saaks ennast ohust kaugemal hoida on üks kitsas liorine ja libe rada kus ei taha lialjud kõndida ning lieavad kõndima.“</li>
+        <li>„Keelata autode juurdepääsu kooli juurde.“</li>
+        <li>„Kooli taga see ristmik on ohtlik paljudele. Ainus tee kus saaks ennast ohust kaugemal hoida on üks kitsas porine ja libe rada kus ei taha paljud kõndida ning peavad kõndima.“</li>
         <li>„(Et) võõrad kooli ette ei sõidaks.“</li>
-        <li>„Teha mingi jalakäijate tee kooli väravast sisseliääsu juurde.“</li>
-        <li>„liarem ligiliääsetavus koolihoovi ja selle ümbruses.“</li>
+        <li>„Teha mingi jalakäijate tee kooli väravast sissepääsu juurde.“</li>
+        <li>„parem ligipääsetavus koolihoovi ja selle ümbruses.“</li>
         <li>„Rohkem valgust.“</li>
-        <li>„Värava sisseliääsu nurga avamine või liaremini nähtavaks teha.“</li>
-        <li>„Ma arvan, et võiks lianna mõned märgid selleks, et mõned vanemad ei sõidaks kooli ette.“</li>
-        <li>„Kooli võiks minna kõnnitee ja jalakäijate sissekäik lieaks olema eraldi autode sissekäigust.“</li>
+        <li>„Värava sissepääsu nurga avamine või paremini nähtavaks teha.“</li>
+        <li>„Ma arvan, et võiks panna mõned märgid selleks, et mõned vanemad ei sõidaks kooli ette.“</li>
+        <li>„Kooli võiks minna kõnnitee ja jalakäijate sissekäik peaks olema eraldi autode sissekäigust.“</li>
         <li>„Öösel aknad ja uksed lukku, vaadata kaameraid ja väravad lukus et võõrad sisse ei saaks.“</li>
-        <li>„Tõkkeliuid lianna.“</li>
-        <li>24 korral vastati, et kool ei lieaks midagi muutma; 6 korral anti vastuseks „ei tea“ ja 2 korral anti ebarealistlik vastus („FBI,“ „liolitseivalve kooli kõrval“).</li>
+        <li>„Tõkkepuid panna.“</li>
+        <li>24 korral vastati, et kool ei peaks midagi muutma; 6 korral anti vastuseks „ei tea“ ja 2 korral anti ebarealistlik vastus („FBI,“ „politseivalve kooli kõrval“).</li>
         <li>„Lastele eraldi tee.“</li>
-        <li>„Mitte lasta lastevanematel lalisi kooli ette viia.“</li>
-        <li>„Lalised võiksid rohkem jalgsi käia ja bussiga sõita.“</li>
+        <li>„Mitte lasta lastevanematel lapsi kooli ette viia.“</li>
+        <li>„Lapsed võiksid rohkem jalgsi käia ja bussiga sõita.“</li>
         <li>„Valgusfoorid.“</li>
         <li>„Valvur võiks kaameraid vaadata.“</li>
         <li>„Kool annab helkureid neile, kes vajaksid.“</li>
-        <li>Nimetati veel mõned üldisemat laadi lahendused – rohkem valgustust, kõnniteid, foore; rohkem liolitsei valvet; tähelelianelikumalt liigelda, jne.</li>
-        <li>36 õliilast jättis sellele küsimusele üldse vastamata; 12 vastajat liidas olukorda juba niigi heaks, ei näinud vajadust midagi muuta; 10 vastajat andis vastuseks „ei tea.“ </li>
+        <li>Nimetati veel mõned üldisemat laadi lahendused – rohkem valgustust, kõnniteid, foore; rohkem politsei valvet; tähelepanelikumalt liigelda, jne.</li>
+        <li>36 õpilast jättis sellele küsimusele üldse vastamata; 12 vastajat pidas olukorda juba niigi heaks, ei näinud vajadust midagi muuta; 10 vastajat andis vastuseks „ei tea.“ </li>
       </ul>
 
       <p><strong>Kokkuvõte</strong></p>

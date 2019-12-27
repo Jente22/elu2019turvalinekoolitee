@@ -13,14 +13,18 @@ export default class Kava extends React.Component {
 
       <strong>19. september 2019 </strong>
       <p>Projekt “Turvaline koolitee” esimene kohtumine projekti juhendaja Heli Ainjärve ning Tallinna Linnavalitsuse liiklusohutuse osakonna esindajatega. Linnavalitsus esitas oma ideed, milleks on eelkõige saada linnaruumi edaspidiseks planeerimiseks sisendit. </p>
-      <p>1. millised kohad liikluses on Tallinna üldhariduskoolide õpilaste ning nende lastevanemate arvates ohtlikud; </p>
-      <p>2. miks eelistatakse lapsi tuua kooli autoga, mitte lasta neil liikuda üksinda, kas siis ühistranspordiga, jalgsi või mõne muu liiklusvahendiga. </p>
-      <p>3. Kas ja millisel määral tekitab laste autoga kooli toomine koolimaja lähiümbruses liiklusohtlikke olukordi. </p>
+      <ol>
+        <li>millised kohad liikluses on Tallinna üldhariduskoolide õpilaste ning nende lastevanemate arvates ohtlikud; </li>
+        <li>miks eelistatakse lapsi tuua kooli autoga, mitte lasta neil liikuda üksinda, kas siis ühistranspordiga, jalgsi või mõne muu liiklusvahendiga. </li>
+        <li>kas ja millisel määral tekitab laste autoga kooli toomine koolimaja lähiümbruses liiklusohtlikke olukordi. </li>
+      </ol>
       <p>Projekti suunitluses ja valikutes jäeti vabad käed, mida rohkem erinevaid aspekte probleemi ning selle lahendamise juures leiame, seda parem. Peale lühikest arutelu jagunesime kolme rühma. Kuna terve Tallinna linna ohukohtade kaardistamine ja analüüsimine oleks nii lühiaegse projekti raames võimatu, otsustasime ühiselt, et iga rühm keskendub ühe Tallinna üldhariduskooli liikluskäitumise uurimisele. Lõpptulemused, mis edastatakse Tallinna Linnavalitsusele, loome aga kolme grupi koostöös. </p>
       <p>Kohtumisel leppisime grupiga kokku järgmises: </p>
-      <p>•	informatsioon ja materjalid, mis töö jooksul kasutusele tulevad, sisestame ühisesse Google Drive dokumenti </p>
-      <p>•	tulevaseks üldkohtumiseks uurivad kõik projektis osalejad asjakohaseid materjale, varem tehtud uurimistöid ning muid liiklusohutusega seotud statistikaid, andmeid. </p>
-      <p>•	Samuti töötasime läbi võimaluse kasutada Maanteeameti koolitee kaardistamise rakendust ning anda sellele järgmiseks kohtumiseks hinnang. </p>
+      <ul>
+        <li>informatsioon ja materjalid, mis töö jooksul kasutusele tulevad, sisestame ühisesse Google Drive dokumenti </li>
+        <li>tulevaseks üldkohtumiseks uurivad kõik projektis osalejad asjakohaseid materjale, varem tehtud uurimistöid ning muid liiklusohutusega seotud statistikaid, andmeid. </li>
+        <li>samuti töötasime läbi võimaluse kasutada Maanteeameti koolitee kaardistamise rakendust ning anda sellele järgmiseks kohtumiseks hinnang. </li>
+      </ul>
       <strong>2. oktoober 2019</strong>
       <p>Olime ühiselt tutvunud mitmesuguste materjalidega, mida jagati Drive´i dokumendis (vt. allikad). Uuritava kooli osas ei olnud me veel selleks ajaks üksmeelele jõudnud, kuna valikus olid mitmed koolid, sh Tallinna Kesklinna Vene Gümnaasium ja Järveotsa Gümnaasium. Kaalusime koolide puhul erinevaid aspekte, sh. kooli asukohta nii õpilaste koolitee suhtes, kui ka kooliümbruses olevate liikusolukorraga seoses. </p>
       <p>Paika sai spetsiifilisem plaan. Otsustasime, et koolide uurimise viime läbi küsitluste abil, mis on suunatud kooli õpilastele ja nende vanematele. Leppisime kokku, et küsimustikud esitame elektroonilisel kujul ning küsimustiku loob projekti 1. rühma liige Henry Arnhold. Enne küsimustike ülesehituse juurde asumist, arutasime veel läbi, mida oma projektiga saavutada soovime, millised on küsimused ja valukohad, mis vajaksid erilist tähelepanu. Oluliseimad teemad  kajastuvad ühiselt valminud küsimustikes (vt. lisad). </p>
