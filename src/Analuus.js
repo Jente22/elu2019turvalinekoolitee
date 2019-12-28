@@ -31,9 +31,9 @@ export default class Analuus extends React.Component {
       <p>46 korral vastati, et koolis juba käiaksegi iseseisvalt või oldaks sellega nõus ühtki tingimust esitamata; 11 korral nimetati aega ja vahemaad (kui oleks rohkem aega, kui kool oleks kodule lähemal); 5 korral ilmastikutingimusi (kui ilm oleks hea/parem); 8 korral nimetati tingimusena busside sõidugraafikuid (liikumistihedust) või bussipeatuse kaugust kodunt, mis võiksid olla soodsamad; 6 korral esitati tingimusi teistele inimestele („kui sõbrad käiksid samuti jala/bussiga; „kui saaksin rohkem taskuraha,“ „kui mulle jäetakse arvuti/ps 4 alles“ „kui mul vanemaid poleks ja endal lubasid ei oleks,“ „kui vanematel ei oleks aega“); 3 vastajat ei oleks mingil tingimusel nõus iseseisvalt koolis käima; 2 korral anti vastuseks „ei tea,“ 1 korral seati tingimuseks „kui ma paremini linna tunneksin“ ja ühel korral „kui autoteed oleksid fooristatud.“ </p>
 
       <p><strong> Liikluskäitumine ja ohud kooliteel</strong></p>
-      <ul>
-        <li> 98% lastest hindab oma liikluskäitumist heaks või väga heaks- liiguvad iseseisvalt turvaliselt.</li>
-        <p>Ohtudest toodi välja:</p>
+      <p>98% lastest hindab oma liikluskäitumist heaks või väga heaks- liiguvad iseseisvalt turvaliselt.</p>
+       <p><strong> Ohtudest toodi välja:</strong></p>
+     <ul>
         <li>Reguleerimata ülekäigurajad – 17 </li>
         <li>Halvasti valgustatud tänavad – 12</li>
         <li>Pööret lõpetavad juhid ei anna lastele teed – 2</li>
