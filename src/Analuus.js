@@ -32,8 +32,8 @@ export default class Analuus extends React.Component {
 
       <p><strong> Liikluskäitumine ja ohud kooliteel</strong></p>
       <ul>
-        <li> 98% lastest hindab om aliikluskäitumist heaks või väga heaks- liiguvad iseseisvalt turvaliselt.</li>
-        <li>Ohtudest toodi välja:</li>
+        <li> 98% lastest hindab oma liikluskäitumist heaks või väga heaks- liiguvad iseseisvalt turvaliselt.</li>
+        <p>Ohtudest toodi välja:</p>
         <li>Reguleerimata ülekäigurajad – 17 </li>
         <li>Halvasti valgustatud tänavad – 12</li>
         <li>Pööret lõpetavad juhid ei anna lastele teed – 2</li>
