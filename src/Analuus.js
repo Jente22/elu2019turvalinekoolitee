@@ -204,9 +204,16 @@ Lastel iseseisvalt kooli minemiseks/tulemiseks kulub alla 10 minuti 28% vastajat
             <li>Autode sissepääsu ja väljapääsu nurga paremini nähtavamaks teha, et teised juhid näeksid väravast välja enne pööret sooritamist.</li>
             <li>paljutki saaks...hommikuti võiks mingil ajal politsei seal korda reguleerida ning rajada tuleks kõnnitee (praegu liiguvad paljud lapsed kooli sõiduteed pidi või mööda mudateed).</li>
           </ul>
-          <p>Populaarseimaks lahendusteks pakuti tõkkepuu paigaldamist kooli sissesõidu juurde, sest keelumärke eiratakse. Lisaks pakuti suurema parkla rajamist kooli lähiümbrusesse, lamavate politseinike paigaldamist ja ringliiklust (ühesuunalist liiklus).</p>
+          <p>Populaarseimaks lahendusteks pakuti tõkkepuu paigaldamist kooli sissesõidu juurde, sest keelumärke eiratakse. Pakuti ka suurema parkla rajamist kooli lähiümbrusesse, lamavate politseinike paigaldamist ja ringliiklust (ühesuunalist liiklus).</p>
 
-          <p>Küsimusele, mida lapsevanemad saaksid ise liikluspildi turvalisemaks muutmiseks ära teha vastati suuremas osas, et ise ei saa midagi teha. Lisaks: "Olla ise tähelepanelikum", " last autoga mitte viia", "Selgitada ja suunata lapse enda tähelepanelikkust ja liikuskäitumist","Peatada auto koolist kaugemal" </p>
+          <p>Küsimusele, mida lapsevanemad saaksid ise liikluspildi turvalisemaks muutmiseks ära teha vastati suuremas osas, et ise ei saa midagi teha.<p> 
+          <p>Veel vastati:</p>
+    <ul>
+    <li>Olla ise tähelepanelikum</li>
+    <li>last autoga mitte viia</li> 
+    <li>Selgitada ja suunata lapse enda tähelepanelikkust ja liikuskäitumist</li>
+    <li>Peatada auto koolist kaugemal</li>
+    </ul>
         </Col>
       </Row>
 
