@@ -90,12 +90,6 @@ export default class Analuus extends React.Component {
         <li>Nimetati veel mõned üldisemat laadi lahendused – rohkem valgustust, kõnniteid, foore; rohkem politsei valvet; tähelepanelikumalt liigelda, jne.</li>
         <li>36 õpilast jättis sellele küsimusele üldse vastamata; 12 vastajat pidas olukorda juba niigi heaks, ei näinud vajadust midagi muuta; 10 vastajat andis vastuseks „ei tea.“ </li>
       </ul>
-
-      <p><strong>Kokkuvõte</strong></p>
-      <p>Võib öelda, et õpilaste kooli ja koolist koju liikumise viisi valikud on enamjuhtudel põhjendatud ja mõistlikud – jala liiguvad kooli ja kodu vahet kooli lähedal elavad õpilased; ühistranspordi või autoga liigeldakse enamasti siis, kui elatakse koolist kaugel, kui on väga kiire või kui ilm on väga halb. Otsest vanemate survet mingi liikumisviisi valikuks (kindlasti autoga või kindlasti jala/ühistranspordiga) ei saa täheldada; samas on vastajate seas ka lapsi, kes praegu ei käi kooliteed iseseisvalt, kuid sooviksid seda teha, ent nende osakaal ei ole suur. Negatiivse poole pealt torkas silma, et lapsi, kes enda hinnangul liiguvad päevas vaid kuni pool tundi, oli vastanute seas 21.
-      Vastuste põhjal ei saa järeldada, et Tallinna Järveotsa Gümnaasiumi ümbrus oleks liiklusohtlikum kui linnas valitsev liiklusolukord keskmiselt, s.t. erilisi suuri ohte ei saa esile tuua.
-      Ka on positiivne, et enamus vastajatest hindas oma linnas liiklemise oskusi ja liikluskäitumist heaks või väga heaks; ka lapsevanemate liikluskäitumise osas anti rohkem positiivseid kui negatiivseid hinnanguid.
-Siiski saaks kool üht-teist ära teha, et kooliümbrust veelgi turvalisemaks muuta: keelata ühemõtteliselt laste „treppi“ toomine; korrastada/täiustada kooliümbruse valgustust, jms.</p>
     </div>
   }
 }
