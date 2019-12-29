@@ -113,6 +113,7 @@ Lastel iseseisvalt kooli minemiseks/tulemiseks kulub alla 10 minuti 28% vastajat
           <p>Peamiseteks põhjusteks, miks last autoga kooli viikase on koolitee ühtimine lapsevanema liikumissuunaga (57), teiseks nimetati halba ilma (33). Lisaks nimetati lapse hiljaks jäämist(20) j väsimust (13) Vastamata jättis ja mitte kunagi ei vii last autoga kooli ca 20% lastevanematest.</p>
 
           <p><strong>Mis muutuks kui lapsed käiksid iseseisvalt koolis ja millistel tingimustel nad teeksid seda</strong></p>
+           <p>44 lapsevanemat vastas, et nende laps juba käibki iseseisvalt koolis</p>
           <p>Tingimusted, mis lapsevanemad nimetavad, et lapsed oleksis valmis rohkem iseseisvalt koolis käima on korralik ühistranspordiühendus(17), hea ilm (8). Toodi veel välja lapse iseseisvust, kergemat koolikotti, ohutumat liiklust, vanemate keeldumist autoga viia ja hilisemat tundide algust. Enamasti vastasid lapsevanemad, et juhul kui nende laps iseseisvalt kooli käiks ei muutuks nende elus midagi (29), kuid nimetati ka seda et laps peaks sel juhul varem ärkama (4)ja, et lapsevanemad muretseksid rohkem oma laste turvalisuse pärast(5).</p>
 
 
