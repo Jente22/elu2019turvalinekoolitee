@@ -76,7 +76,7 @@ Lastel iseseisvalt kooli minemiseks/tulemiseks kulub alla 10 minuti 28% vastajat
         <Col>
           <p><strong>Mis muutuks kui lapsed käiksid iseseisvalt koolis ja millistel tingimustel nad teeksid seda</strong></p>
           <p>58 lapsevanemat vastas, et nende laps juba käibki iseseisvalt koolis (sh 14, kes küsimusele ei vastanud, kuna eelnevalt oli juba kirjas, et käib ise koolis)</p>
-          <p>Tingimusted, mis lapsevanemad nimetavad, et lapsed oleksis valmis rohkem iseseisvalt koolis käima on korralik ühistranspordiühendus(17), hea ilm (8). Toodi veel välja lapse iseseisvust, kergemat koolikotti, ohutumat liiklust, vanemate keeldumist autoga viia ja hilisemat tundide algust.</p> 
+          <p>Tingimusted, mis lapsevanemad nimetavad, et lapsed oleksis valmis rohkem iseseisvalt koolis käima on korralik ühistranspordiühendus(17), hea ilm (8). Toodi veel välja lapse iseseisvust, kergemat koolikotti, ohutumat liiklust, vanemate keeldumist autoga viia ja hilisemat tundide algust.</p>
           <p>Enamasti vastasid lapsevanemad, et juhul kui nende laps iseseisvalt kooli käiks ei muutuks nende elus midagi (29), kuid nimetati ka seda, et laps peaks sel juhul varem ärkama (4)ja, et lapsevanemad muretseksid rohkem oma laste turvalisuse pärast(5).</p>
         </Col>
       </Row>
@@ -206,22 +206,22 @@ Lastel iseseisvalt kooli minemiseks/tulemiseks kulub alla 10 minuti 28% vastajat
           </ul>
           <p>Populaarseimaks lahendusteks pakuti tõkkepuu paigaldamist kooli sissesõidu juurde, sest keelumärke eiratakse. Pakuti ka suurema parkla rajamist kooli lähiümbrusesse, lamavate politseinike paigaldamist ja ringliiklust (ühesuunalist liiklus).</p>
 
-          <p>Küsimusele, mida lapsevanemad saaksid ise liikluspildi turvalisemaks muutmiseks ära teha vastati suuremas osas, et ise ei saa midagi teha.<p> 
-          <p>Veel vastati:</p>
-    <ul>
-    <li>Olla ise tähelepanelikum</li>
-    <li>last autoga mitte viia</li> 
-    <li>Selgitada ja suunata lapse enda tähelepanelikkust ja liikuskäitumist</li>
-    <li>Peatada auto koolist kaugemal</li>
-    </ul>
+          <p>Küsimusele, mida lapsevanemad saaksid ise liikluspildi turvalisemaks muutmiseks ära teha vastati suuremas osas, et ise ei saa midagi teha.</p>
+            <p>Veel vastati:</p>
+            <ul>
+              <li>Olla ise tähelepanelikum</li>
+              <li>last autoga mitte viia</li>
+              <li>Selgitada ja suunata lapse enda tähelepanelikkust ja liikuskäitumist</li>
+              <li>Peatada auto koolist kaugemal</li>
+            </ul>
         </Col>
       </Row>
 
-      <p><strong>Kokkuvõte</strong></p>
-      <p>Kõrvutades nii laste, kui lastevanemate analüüse näeme, et aktiivseimateks vastajateks laste hulgas olid ülekaalukalt 7-9 klassi õpilased, ning lastevanematest vastas enim 1-3 klassi lastevanemaid. Mõlema grupi vastustest selgub, et autoga tuuakse kooli umbes kolmandikku lastest, kuid koolist koju sõidavad autoga alla kümnendiku lastest ( põhiliselt kaugemal, kui 5km elavad lasped). Siit võib järeldada, et problemaatiline ajavahemik kooli ümber toimuvast liiklusmöllust langeb just hommikusse tipptundi. Võib öelda, et õpilaste kooli ja koolist koju liikumise viisi valikud on enamjuhtudel põhjendatud ja mõistlikud – jala liiguvad kooli ja kodu vahet kooli lähedal elavad õpilased; ühistransporti kasutatakse siis, kui selle marzuut on loogiline ja piisavalt kiire. Autoga liigeldakse enamasti siis, kui elatakse koolist kaugel,kui vanemate sõidumarzuut kattub lapse omaga, kui on väga kiire või kui ilm on väga halb</p>
-<p>Tervise ja keskonnamõjude olulisust hindasid lapsed väga erinevalt jagunedes võrdselt ebaolulisest väga oluliseks pidavateni. Seevastu lapsevanematest pooled pidasid eelnevaid tegureid väga oluliseks. Siinkohal on aga lapsevanematel peeglisse vaatamise koht, kuna isegi kui lapsed käiksid koolis ühistranspordiga või jala kooli, siis sama marzuuti autoga sõitev lapsevanem keskkonda väga palju ei säästaks. Tõsi, küll aga maandaks liikluspinget kooli ümbruses. Negatiivse poole pealt torkas silma, et vähem kui pooled lapsed liiguvad päevas 60 min või rohkem. Paljud aga isegi vähem kui 30min. Viimane oleks ca 3/4 laste puhul ka maksimaalne iseseisvalt kooli jõudmise aeg. Autost loobumise ja iseseisva liikumise põhieeldusteks toodi mugava ühistranspordi olemasolu, ohutumat liiklusolukorda ja hilisemat tundide algust(kui oleks rohkem aega kooliteel olla). Küsitlustes selgub, et lapsed kasutavad liikumiseks minimaalselt jalgratast või muud motorieerimata abivahendit. Tõenäoliseks põhjuseks võib tuua puudulikku infrastuktuuri ja ohtlikke teedeületusi reguleerimata ristmikel. Reguleerimata ülekäiguradu toodi välja ka mõlema küsitluse puhul suurima ohuna. Järgnesid halb tänavavalgustus, hoolimatud juhid, samuti märkisid lapsevanemad ära lubatud sõidukiirust ületavad juhid ja halba eeskuju näitavad täiskasvanud. Lahendustena pakuti enim välja liikluse piiramist kooli lähedal, sh. pakuti tõkkepuu paigaldamist, sissesõidu keelamist. Sooviti ka fooride paigaldamist reguleerimata ülekäiguradadele, liikluse ühesuunaliseks ( ringseks) muutmist, kaamerate paigaldamist.</p>
-<p>Vastuste põhjal ei saa järeldada, et Tallinna Järveotsa Gümnaasiumi ümbrus oleks liiklusohtlikum kui linnas valitsev liiklusolukord keskmiselt, s.t. erilisi suuri ohte ei saa esile tuua.
+          <p><strong>Kokkuvõte</strong></p>
+          <p>Kõrvutades nii laste, kui lastevanemate analüüse näeme, et aktiivseimateks vastajateks laste hulgas olid ülekaalukalt 7-9 klassi õpilased, ning lastevanematest vastas enim 1-3 klassi lastevanemaid. Mõlema grupi vastustest selgub, et autoga tuuakse kooli umbes kolmandikku lastest, kuid koolist koju sõidavad autoga alla kümnendiku lastest ( põhiliselt kaugemal, kui 5km elavad lasped). Siit võib järeldada, et problemaatiline ajavahemik kooli ümber toimuvast liiklusmöllust langeb just hommikusse tipptundi. Võib öelda, et õpilaste kooli ja koolist koju liikumise viisi valikud on enamjuhtudel põhjendatud ja mõistlikud – jala liiguvad kooli ja kodu vahet kooli lähedal elavad õpilased; ühistransporti kasutatakse siis, kui selle marzuut on loogiline ja piisavalt kiire. Autoga liigeldakse enamasti siis, kui elatakse koolist kaugel,kui vanemate sõidumarzuut kattub lapse omaga, kui on väga kiire või kui ilm on väga halb</p>
+          <p>Tervise ja keskonnamõjude olulisust hindasid lapsed väga erinevalt jagunedes võrdselt ebaolulisest väga oluliseks pidavateni. Seevastu lapsevanematest pooled pidasid eelnevaid tegureid väga oluliseks. Siinkohal on aga lapsevanematel peeglisse vaatamise koht, kuna isegi kui lapsed käiksid koolis ühistranspordiga või jala kooli, siis sama marzuuti autoga sõitev lapsevanem keskkonda väga palju ei säästaks. Tõsi, küll aga maandaks liikluspinget kooli ümbruses. Negatiivse poole pealt torkas silma, et vähem kui pooled lapsed liiguvad päevas 60 min või rohkem. Paljud aga isegi vähem kui 30min. Viimane oleks ca 3/4 laste puhul ka maksimaalne iseseisvalt kooli jõudmise aeg. Autost loobumise ja iseseisva liikumise põhieeldusteks toodi mugava ühistranspordi olemasolu, ohutumat liiklusolukorda ja hilisemat tundide algust(kui oleks rohkem aega kooliteel olla). Küsitlustes selgub, et lapsed kasutavad liikumiseks minimaalselt jalgratast või muud motorieerimata abivahendit. Tõenäoliseks põhjuseks võib tuua puudulikku infrastuktuuri ja ohtlikke teedeületusi reguleerimata ristmikel. Reguleerimata ülekäiguradu toodi välja ka mõlema küsitluse puhul suurima ohuna. Järgnesid halb tänavavalgustus, hoolimatud juhid, samuti märkisid lapsevanemad ära lubatud sõidukiirust ületavad juhid ja halba eeskuju näitavad täiskasvanud. Lahendustena pakuti enim välja liikluse piiramist kooli lähedal, sh. pakuti tõkkepuu paigaldamist, sissesõidu keelamist. Sooviti ka fooride paigaldamist reguleerimata ülekäiguradadele, liikluse ühesuunaliseks ( ringseks) muutmist, kaamerate paigaldamist.</p>
+          <p>Vastuste põhjal ei saa järeldada, et Tallinna Järveotsa Gümnaasiumi ümbrus oleks liiklusohtlikum kui linnas valitsev liiklusolukord keskmiselt, s.t. erilisi suuri ohte ei saa esile tuua.
 Ka on positiivne, et enamus vastajatest hindas oma linnas liiklemise oskusi ja liikluskäitumist heaks või väga heaks</p>
     </div>
-  }
-}
+        }
+      }

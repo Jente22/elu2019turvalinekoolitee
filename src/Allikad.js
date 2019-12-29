@@ -54,15 +54,15 @@ export default class Allikad extends React.Component {
           <h4>Küsimustik lastevanematele</h4>
           <a href="https://docs.google.com/forms/d/e/1FAIpQLSeorjsUjXnHHwzbGk3wAK10d2nWMNPuxH7RoDoXCE2SNzgEfw/viewform">https://docs.google.com/forms/d/e/1FAIpQLSeorjsUjXnHHwzbGk3wAK10d2nWMNPuxH7RoDoXCE2SNzgEfw/viewform</a>
         </li>
-    
-      <li className="list-group-item">
-    <h4>Lapsevanemate vastused:</h4>
- <a href="https://docs.google.com/spreadsheets/d/1AdGbCPouupDCF2ir0YBu68T0mOxIIQu82qN0Ficc6iI/edit?usp=sharing">https://docs.google.com/spreadsheets/d/1AdGbCPouupDCF2ir0YBu68T0mOxIIQu82qN0Ficc6iI/edit?usp=sharing</a>
-    <h4>Õpilaste vastused:</h4>
-    </li>
-   <li className="list-group-item"> 
-<a href="https://docs.google.com/spreadsheets/d/14tZ859xPphmddibgAOu4XtyU-tHpVlG09edeHBA7s40/edit?usp=sharing">https://docs.google.com/spreadsheets/d/14tZ859xPphmddibgAOu4XtyU-tHpVlG09edeHBA7s40/edit?usp=sharing</a>
- </li>
+
+        <li className="list-group-item">
+          <h4>Lapsevanemate vastused</h4>
+          <a href="https://docs.google.com/spreadsheets/d/1AdGbCPouupDCF2ir0YBu68T0mOxIIQu82qN0Ficc6iI/edit?usp=sharing">https://docs.google.com/spreadsheets/d/1AdGbCPouupDCF2ir0YBu68T0mOxIIQu82qN0Ficc6iI/edit?usp=sharing</a>
+        </li>
+        <li className="list-group-item">
+          <h4>Õpilaste vastused</h4>
+          <a href="https://docs.google.com/spreadsheets/d/14tZ859xPphmddibgAOu4XtyU-tHpVlG09edeHBA7s40/edit?usp=sharing">https://docs.google.com/spreadsheets/d/14tZ859xPphmddibgAOu4XtyU-tHpVlG09edeHBA7s40/edit?usp=sharing</a>
+        </li>
       </ul>
     </div>
 
