@@ -76,7 +76,8 @@ Lastel iseseisvalt kooli minemiseks/tulemiseks kulub alla 10 minuti 28% vastajat
         <Col>
           <p><strong>Mis muutuks kui lapsed käiksid iseseisvalt koolis ja millistel tingimustel nad teeksid seda</strong></p>
           <p>58 lapsevanemat vastas, et nende laps juba käibki iseseisvalt koolis (sh 14, kes küsimusele ei vastanud, kuna eelnevalt oli juba kirjas, et käib ise koolis)</p>
-          <p>Tingimusted, mis lapsevanemad nimetavad, et lapsed oleksis valmis rohkem iseseisvalt koolis käima on korralik ühistranspordiühendus(17), hea ilm (8). Toodi veel välja lapse iseseisvust, kergemat koolikotti, ohutumat liiklust, vanemate keeldumist autoga viia ja hilisemat tundide algust. Enamasti vastasid lapsevanemad, et juhul kui nende laps iseseisvalt kooli käiks ei muutuks nende elus midagi (29), kuid nimetati ka seda et laps peaks sel juhul varem ärkama (4)ja, et lapsevanemad muretseksid rohkem oma laste turvalisuse pärast(5).</p>
+          <p>Tingimusted, mis lapsevanemad nimetavad, et lapsed oleksis valmis rohkem iseseisvalt koolis käima on korralik ühistranspordiühendus(17), hea ilm (8). Toodi veel välja lapse iseseisvust, kergemat koolikotti, ohutumat liiklust, vanemate keeldumist autoga viia ja hilisemat tundide algust.</p> 
+          <p>Enamasti vastasid lapsevanemad, et juhul kui nende laps iseseisvalt kooli käiks ei muutuks nende elus midagi (29), kuid nimetati ka seda, et laps peaks sel juhul varem ärkama (4)ja, et lapsevanemad muretseksid rohkem oma laste turvalisuse pärast(5).</p>
         </Col>
       </Row>
 
