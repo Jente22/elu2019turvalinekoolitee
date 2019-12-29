@@ -90,6 +90,89 @@ export default class Analuus extends React.Component {
         <li>Nimetati veel mõned üldisemat laadi lahendused – rohkem valgustust, kõnniteid, foore; rohkem politsei valvet; tähelepanelikumalt liigelda, jne.</li>
         <li>36 õpilast jättis sellele küsimusele üldse vastamata; 12 vastajat pidas olukorda juba niigi heaks, ei näinud vajadust midagi muuta; 10 vastajat andis vastuseks „ei tea.“ </li>
       </ul>
+    
+    
+    <h4>Järveotsa Gümnaasiumi lastevanemate küsitluse tulemused ja tulemuste analüüs</h4>
+<p>Lapsevanematele mõeldud küsimustikule vastasid 138 lapsevanemat. 53 vastanutest olid 1-3. klassi õpilaste vanemad, 9 vastanutest  - 10-12. klassi õpilaste vanemad, 36 vastanutest - 4-6. klassi õpilaste vanemad, ning 39 vastanutest olid 7-9. klassi õpilaste vanemad.</p>
+
+<p><strong> Koolitee pikkus, kooli mineku ja tuleku populaarsemad liikumisviiside valikud, põhjendused</strong></p>  
+
+<p>Vastanuist 52 märkisid koolitee pikkuseks 1-5 km. 5 kuni 10 km koolini oli 32 vastajatel. 39 vastanutest märkisid koolitee pikkuseks “kuni 1 km”, ning üle 10 km oli 15 vastajatel. Ehk siis 66% elab lähemal kui 5km</p>    
+<p>Peaagu alati ja alati olid ühistransport ja jalgis, 58% vastanuist. Peaaegu alati või alati viiakse kooli autoga veidi üle kolmandiku (35 %) vastanuist. Koolist koju tulles aga kasutavad vanemate sõnul lapsed napil 8% juhtudel alati või peaaegu alati autot. Ühistransporti ja jalgsi tulekut nimetas 85% lastevanematest. Üldjuhul on auto asendunud ühistranspordiga. Mitte üldse või vähesel määral kasutatakse muud liikumiisviisi ( ratas, tõukeratas, mõni muu motoriseerimata liiklusvahend) </p>  
+<p>Kooli minekul põhjendati auto kasutamise kõige rohkem pika vahemaaga koolini ( 5-10+km), ning sellega, et kool jääb samal marsruudil mis lapsevanema teekond töökohani.(22) Väiksemate vahemaade puhul nimetati põhjusteks ka kiirust, mugavust ja turvalisust ning halba ühistranspordi graafikut. Toodi veel välja. "Puudub rattatee ja liigume ka ise samast teed", "Hommikul on kohutav liiklus Rannamõisa teel ja seal lähiümbruses + pimedad tänavad. On turvalisem ja kiireim viis ise viia", "Saab hommikul kauem magada, koolikott on raske, ühistranspordi peale ei saa kindel olla." </p>  
+<p>Ühistranspordi eelistajad põhjendasid oma eelistust mugava ühistranspordiühenduse olemasoluga, kiirusega ning auto puudumisega perkonnas. Veel toodi välja järgmisi põhjuseid "Isesesvus ja liikumine on vajalik", "Sõpradega ühistranspordis lõbusam", "Laps saab liikuda ja ärkab korralikult ülesse",
+<p>Valdav enamus vastajatest, kelle lapsed kõige tihedamini käivad kooli jalgsi teevad seda, sest elavad kooli läheduses. Koolist tulekul jalgsi või ühistraspordi eelistust põhjendatakse sellega, et koolipäeva lõpp on varem kui vanema tööpäeva lõpp, ning sellega et on olemas mugav ühistranspordi ühendus. Selle valiku teinud vastajate koolitee pikkus jäi valdavalt kuni 1 km piiresse </p> 
+
+<p><strong> Puudutab õpilasi, kes liiguvad kooli ja kodu vahel autoga või peamiselt autoga.</strong></p> 
+<p>Autoga kooli jõudmiseks kulub 57% vastajatest alla 10 minutit. 35% vastajatest võtab autoga kooli jõudmine 11-30 minutit, ning vaid 8% vastajatest võtab autoga tee kooli üle 30 minuti. 
+Lastel iseseisvalt kooli minemiseks/tulemiseks kulub alla 10 minuti 28% vastajatel. 11-30 minutit võtab iseseisev teekond kooli 42% vastajatel, ning üle 30 minuti 30% vastajatel.</p> 
+<p>Ohtudest autoga viimisel toodi välja tihedat liiklust ( 8) ja liiklusõnnetuste ohtu ( 10 vastanut) Lisaks nimetati kitsaid teid, kõnnitee puudumist, liikluskultuuri olematust, hoolimatuid ja eeskirju eiravaid autojuhte</p>
+<p>Peamiseteks põhjusteks, miks last autoga kooli viikase on koolitee ühtimine lapsevanema liikumissuunaga ( 57), teiseks nimetati halba ilma ( 33). Lisaks nimetati lapse hiljaks jäämist( 20) j väsimust ( 13) Vastamata jättis ja mitte kunagi ei vii last autoga kooli ca 20% lastevanematest.
+ 
+<p><strong>Mis muutuks kui lapsed käiksid iseseisvalt koolis ja millistel tingimustel nad teeksid seda</strong></p>
+<p>Tingimusted, mis lapsevanemad nimetavad, et lapsed oleksis valmis rohkem iseseisvalt koolis käima on korralik ühistranspordiühendus( 17), hea ilm ( 8). Toodi veel välja lapse iseseisvust, kergemat koolikotti, ohutumat liiklust, vanemate keeldumist autoga viia ja hilisemat tundide algust. Enamasti vastasid lapsevanemad, et juhul kui nende laps iseseisvalt kooli käiks ei muutuks nende elus midagi ( 29), kuid nimetati ka seda et laps peaks sel juhul varem ärkama (4)ja, et lapsevanemad muretseksid rohkem oma laste turvalisuse pärast( 5).</p>
+
+
+<p><strong> Tervise ja keskkonnamõju</strong></p>
+</p>Koolitee valiku mõju lapse tervisele pidas oluliseks 48% vastanuist, 26% olid seisukohal nii ja naa. Keskonnamõju pidas oluliseks 47% vastanud vanemaist ja 30% jäid seisukohale nii ja naa. Võrreldes laste tulemusega on vanemate seiskohad nendes küsimustes siiski veidi paremad.</p>
+
+<p><strong> Liikluskäitumine ja ohud kooliteel</strong></p>
+<ul>
+<li>88% lastevanematest hindab oma lapse liikluskäitumist heaks või väga heaks.</li> 
+<li>Peaaegu ohutuks hindab lapse kooliteed 50% laspevanematest.</li>
+<li>Nutitelefoni liigkasutamist iseseisval liiklemisel oma lapsele peab suureks ohuks umbes 50% lastevanematest</li>
+ </ul>
+  <p><strong> Ohtudest toodi välja:</strong></p>
+<ul>
+        <li>Reguleerimata ülekäigurajad – 97 </li>
+        <li>Halvasti valgustatud tänavad – 55</li>
+        <li>Pööret lõpetavad juhid ei anna lastele teed – 62</li>
+        <li>Väikesed ohutussaared suure liiklusega teel – 24</li>
+        <li>Suurenenud oht langeda kuriteo ohvriks – 29</li>
+        <li>Sõidukijuhid sõidavad sageli punase fooritulega ristmikule, mida lapsed peavad ületama – 22</li>
+        <li>Ülekäigurajal on parkivate sõidukite tõttu nähtavus piiratud – 45</li>
+        <li>Paljud täiskasvanud näitavad oma liikluskäitumisega lastele halba eeskuju – 58</li>
+        <li>Lubatud sõidukiirust ületavad juhid – 76</li>
+        <li>Minu arvates ei ole kooliteel mingeid ohte – 10</li>
+		 </ul>
+
+<p><strong>Lapsevanemate tähelepanekud</strong></p>
+<ul>
+        <li>kihutavad autod mikrorajooni teedel</li>
+        <li>Kõnnitee puudumine ja autodevool hommikul koolihoovi ja sealt välja. Lapse kukkumine libedaga auto kõrval samal teel. </li>
+        <li>Hommikuti on palju autosid ja tähelepanu võib hajuda.</li>
+        <li>Lapsed ei jälgi mis toimub ümber ringi, kõrvaklapid peas, vaatavad telefoni ekraanile</li>
+        <li>sissesõidukeelu rikkujad, kiiruseületajad õuealal, valesti parkivad autod</li>
+        <li>Lapsed jooksevad teele, veendumata ohutuses</li>
+        <li>ristmikel parkivad sõidukid, mille vahelt ei näe.  </li>
+        <li>reguleerimata ülekäigurajal autod ei lase ülekäijaid läbi</li>
+        <li>Autod sôidavad sisse keelumàrgi alt, kus ei ole lubatud sisse sôita kooli ôuealale</li>
+        <li>Ülekäigurajale liialt lähedale pargitud autode vahelt teele astuvad lapsed on tihti autojuhtide jaoks raskesti märgatavad. </li>
+		</ul>
+
+<p><strong>Lastevanemate lahendused mida kool/ omavalistus saaksid liiklusohutuse tõstmiseks teha</strong></p>
+<ul>
+        <li>Lamavad politseinikud ennem ülekäiguradasid. Parem valgustus. </li>
+        <li>Valgusfoorid</li>
+        <li>Näiteks kooli parklasse tõkkepuu panna, sest siiani sõidavad sinna kihutavad lapsevanemad (kuigi on keelatud)</li>
+        <li>Ühesuunaline või ringiratast toimiv liiklus.</li>
+        <li>Koolihoovi sissesõidukeelu pidev kontrollimine</li>
+        <li>Jah saaks mitmel viisil, kuid juhtkond ei tegele selle probleemiga. s</li>
+        <li>Suurem parkla kooli lähiümbruses.   </li>
+        <li>Parkimiskohti võiks olla koolis olla rohkem</li>
+        <li>Kooli ümbruses võiks olla videovalve.</li>
+        <li>Politsei patrul võiks tihedamini seista kooli juures hommikuti </li>
+		<li>Autode sissepääsu ja väljapääsu nurga paremini nähtavamaks teha, et teised juhid näeksid väravast välja enne pööret sooritamist.</li>
+		<li>paljutki saaks...hommikuti võiks mingil ajal politsei seal korda reguleerida ning rajada tuleks kõnnitee (praegu liiguvad paljud lapsed kooli sõiduteed pidi või mööda mudateed).</li>
+		</ul>
+		<p>Populaarseimaks lahendusteks pakuti tõkkepuu paigaldamist kooli sissesõidu juurde, sest keelumärke eiratakse. Lisaks pakuti suurema parkla rajamist kooli lähiümbrusesse, lamavate politseinike paigaldamist ja ringliiklust ( ühesuunalist liiklus).</p>
+		
+		<p>Küsimusele, mida lapsevanemad saaksid ise liikluspildi turvalisemaks muutmiseks ära teha vastati suuremas osas, et ise ei saa midagi teha. Lisaks: "Olla ise tähelepanelikum", " last autoga mitte viia", "Selgitada ja suunata lapse enda tähelepanelikkust ja liikuskäitumist","Peatada auto koolist kaugemal" 
+
+<p><strong>KOkkuvõte</strong></p>
+<p>Aktiivsemateks vastajateks laste hulgas olid ülekaalukalt 7-9 klassi õpilased, ning lastevanematest vastas enim 1-3 klassi lastevaemaid. NIi nagu ka laste vastustes selgus, tuuakse autoga kooli umbes kolmandikku lastast, kuid koolist koju sõidavad autoga alla kümnendiku lastest. Siit võib järeldada, et problemaatiline ajavahemik kooli ümber toimuvast liiklusmöllust langeb just hommikusse aega.
+Populaarseim phjus, miks lapsi autoga kooli tuuakse oli koolitee kattumine lapsevanema töölesõidu marzuudiga
+
     </div>
   }
 }
