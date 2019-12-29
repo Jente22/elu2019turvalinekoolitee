@@ -63,7 +63,7 @@ Lastel iseseisvalt kooli minemiseks/tulemiseks kulub alla 10 minuti 28% vastajat
         </Col>
         <Col>
           <p><strong> Tervise ja keskkonnamõju</strong></p>
-          <p>Koolitee valiku mõju lapse tervisele pidas oluliseks 48% vastanuist, 26% olid seisukohal nii ja naa. Keskonnamõju pidas oluliseks 47% vastanud vanemaist ja 30% jäid seisukohale nii ja naa. Võrreldes laste tulemusega on vanemate seiskohad nendes küsimustes siiski veidi paremad.</p>
+          <p>Koolitee valiku mõju lapse tervisele pidas oluliseks 48% vastanuist, 26% olid seisukohal nii ja naa. 47% vanematest vastas, et nende laps liigub igapäevaselt õues 60min või rohkem. Alla 45 min liigub aga 27% lastest. Keskonnamõju pidas oluliseks 47% vastanud vanemaist ja 30% jäid seisukohale nii ja naa. Võrreldes laste tulemusega on vanemate seiskohad nendes küsimustes siiski veidi paremad.</p>
         </Col>
       </Row>
 
