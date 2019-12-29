@@ -8,12 +8,12 @@ export default class Analuus extends React.Component {
 
       <Row>
         <Col>
-          <h4>Järveotsa Gümnaasiumi õpilaste küsitluse tulemused ja tulemuste analüüs</h4>
+          <h4>Järveotsa Gümnaasiumi õpilaste küsitluse tulemuste analüüs</h4>
 
           <p> Järveotsa Gümnaasiumis vastas küsimustikule 98 õpilast. Koolis on pisut üle 700 õpilase, seega võib osalusaktiivsust 15% ajalist piirangut arvestades, üsna heaks. Vastajatest 43 olid poisid, 55 tüdrukud. Vanuserühmade lõikes jaotusid vastajad järgmiselt: 1.-3. klassi õpilasi oli vastajate seas 11; 4.-6. klassi õpilasi 25; 7.-9. klassi õpilasi 42 ja 10.-12. klassi õpilasi 20. .</p>
         </Col>
         <Col>
-          <h4>Järveotsa Gümnaasiumi lastevanemate küsitluse tulemused ja tulemuste analüüs</h4>
+          <h4>Järveotsa Gümnaasiumi lastevanemate küsitluse tulemuste analüüs</h4>
           <p>Lapsevanematele mõeldud küsimustikule vastasid 138 lapsevanemat. 53 vastanutest olid 1-3. klassi õpilaste vanemad, 9 vastanutest  - 10-12. klassi õpilaste vanemad, 36 vastanutest - 4-6. klassi õpilaste vanemad, ning 39 vastanutest olid 7-9. klassi õpilaste vanemad.</p>
         </Col>
       </Row>
