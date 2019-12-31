@@ -1,5 +1,5 @@
 ﻿foreach ($type in "lapsed", "vanemad") {
-  $tulemused = Import-Csv .\tulemused_$type.csv -Encoding UTF8
+  $tulemused = Import-Csv .\tulemused_$type.csv -Encoding UTF8 -Delimiter ";"
   $kysimused = $tulemused[0].psobject.Properties.Name
   $output = [ordered]@{ }
   2..($kysimused.Count - 1) | ForEach-Object {
