@@ -1,5 +1,7 @@
 import React from 'react'
 import { Button } from 'react-bootstrap'
+import Papa from 'papaparse'
+
 import Graafik from './Graafik'
 
 export default class Vastused extends React.Component {
@@ -8,12 +10,25 @@ export default class Vastused extends React.Component {
     this.state = {}
   }
   componentDidMount() {
-    fetch(process.env.PUBLIC_URL + `/tulemused_${this.props.type}.json`)
-      .then(res => res.json())
-      .then(result => this.setState({
-        data: result,
-        selectedQuestion: Object.keys(result)[0]
-      }))
+    Papa.parse(`https://raw.githubusercontent.com/Jente22/elu2019turvalinekoolitee/master/public/tulemused_${this.props.type}.csv`, {
+      download: true,
+      header: true,
+      complete: (results) => {
+        var questions = Object.keys(results.data[0])
+        var data = {}
+        questions.map(question => data[question] = {})
+        results.data.map(row =>
+          questions.map(question =>
+            data[question][row[question]] = (data[question][row[question]] || 0) + 1
+          )
+        )
+        delete data['Aeg']
+        this.setState({
+          data: data,
+          selectedQuestion: Object.keys(data)[0]
+        })
+      }
+    })
   }
   handleClick = e => {
     this.setState({
