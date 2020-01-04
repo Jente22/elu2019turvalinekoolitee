@@ -5,7 +5,6 @@ export default class Graafik extends React.Component {
   constructor(props) {
     super(props)
     this.canvasRef = React.createRef()
-    this.state = {}
   }
   componentDidMount() {
     var data = this.props.data
@@ -40,7 +39,6 @@ export default class Graafik extends React.Component {
   componentDidUpdate() {
     var data = this.props.data
     delete data['']
-    console.log(data)
     this.chart.data.labels = Object.keys(data)
     this.chart.data.datasets[0].data = Object.values(data)
     this.chart.options.title.text = this.props.question

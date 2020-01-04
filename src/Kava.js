@@ -2,7 +2,7 @@ import React from 'react'
 
 export default class Kava extends React.Component {
   render() {
-    return <div className="mt-3">
+    return <div>
       <h4>Projekti kava</h4>
 
       <p>Projektis osalejad jaotati projekti juhendaja poolt kolmeks rühmaks. Iga rühm valis kooli, mille õpilaste koolitee turvalisust analüüsida. kuna teiste gruppide valikud kaldusid kesklinna koolide kasuks jäi teise grupi valikusõelale Järveotsa Gümnaasium. Esialgu arutuse all olev Vene Kesklinna Gümnaasium oleks sarnaselt teistele koolidele kesklinna piirkonda jäänud ja võimalus et koolidevahelised erisused oleksid olnud minimaalsed. Järveotsa Gümnaasiumis õpivad ka õpilased väljastpoolt Tallinna linna, mis lubab soovi korral analüüsida erineva iseloomuga distantse ja valikuid. Lisaks aitas Järveotsa Gümnaasiumi kasuks otsustada fakt, et ühe grupiliikme lapsed käivad eelnimetud koolis. Lapsevanem on arvamusel, et kõnealune koolitee pole piisavalt turvaline ja seetõttu on ta pidanud oma lapsi ise kooli viima ja koolist tooma. </p>
