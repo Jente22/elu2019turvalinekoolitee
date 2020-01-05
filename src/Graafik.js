@@ -1,5 +1,6 @@
 import React from 'react'
 import Chart from 'chart.js'
+import ChartDataLabels from 'chartjs-plugin-datalabels'
 
 export default class Graafik extends React.Component {
   constructor(props) {
@@ -15,11 +16,17 @@ export default class Graafik extends React.Component {
         labels: Object.keys(data),
         datasets: [
           {
+            datalabels: {
+              color: '#000000',
+              anchor: 'end',
+              align: 'top'
+            },
             data: Object.values(data),
-            backgroundColor: 'lightblue'
+            backgroundColor: 'lightgrey'
           }
         ]
       },
+      plugins: [ChartDataLabels],
       options: {
         legend: { display: false },
         title: {

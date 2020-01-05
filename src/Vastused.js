@@ -23,6 +23,8 @@ export default class Vastused extends React.Component {
           )
         )
         delete data['Aeg']
+        delete data['Mis koolis käid?']
+        delete data['Mis koolis laps käib?']
         this.setState({
           data: data,
           selectedQuestion: Object.keys(data)[0]
@@ -43,7 +45,7 @@ export default class Vastused extends React.Component {
     return <div className="mt-3">
       <Graafik question={selectedQuestion} data={questionData} />
       {Object.keys(data).map(question => (
-        <Button onClick={this.handleClick} name={question} variant="light" key={question} className="mb-3 mr-3">{question}</Button>
+        <Button onClick={this.handleClick} name={question} variant="outline-success" key={question} className="mb-3 mr-3">{question}</Button>
       ))}
     </div>
   }
