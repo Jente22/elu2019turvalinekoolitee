@@ -40,7 +40,7 @@
   
 </ul>
 
-<ul class="list-group mt-5 pb-3">
+<ul class="list-group mt-5">
 
   <li class="list-group-item">
     <h4>Küsimustik õpilastele</h4>

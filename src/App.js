@@ -6,7 +6,7 @@ import FromMarkdown from './FromMarkdown'
 import Vastused from './Vastused'
 
 export default function App() {
-  return <Container className="my-3" style={{ background: 'rgba(255, 255, 255, 0.9' }}>
+  return <Container className="my-3 py-3" style={{ background: 'rgba(255, 255, 255, 0.9' }}>
     <Row>
       <Col>
         <Tabs className="my-3">
