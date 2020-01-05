@@ -11,6 +11,13 @@
  * Licensed under the MIT License.
  */
 
+/*!
+ * Chart.js v2.9.3
+ * https://www.chartjs.org
+ * (c) 2019 Chart.js Contributors
+ * Released under the MIT License
+ */
+
 /*
 object-assign
 (c) Sindre Sorhus
@@ -25,10 +32,10 @@ License: MIT
 */
 
 /*!
- * Chart.js v2.9.3
- * https://www.chartjs.org
+ * chartjs-plugin-datalabels v0.7.0
+ * https://chartjs-plugin-datalabels.netlify.com
  * (c) 2019 Chart.js Contributors
- * Released under the MIT License
+ * Released under the MIT license
  */
 
 /** @license React v16.12.0
