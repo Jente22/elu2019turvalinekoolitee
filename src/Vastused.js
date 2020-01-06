@@ -1,5 +1,5 @@
 import React from 'react'
-import { Button } from 'react-bootstrap'
+import { Button, Spinner } from 'react-bootstrap'
 import Papa from 'papaparse'
 
 import Graafik from './Graafik'
@@ -39,14 +39,22 @@ export default class Vastused extends React.Component {
   }
   render() {
     var data = this.state.data
-    if (!data) return ''
+    if (!data) return <div className="d-flex justify-content-center">
+      <Spinner animation="border" variant="secondary" />
+    </div>
     var selectedQuestion = this.state.selectedQuestion
-    var questionData = data[selectedQuestion]
     return <div className="mt-3">
-      <Graafik question={selectedQuestion} data={questionData} />
-      {Object.keys(data).map(question => (
-        <Button onClick={this.handleClick} name={question} variant="outline-success" key={question} className="mb-3 mr-3">{question}</Button>
-      ))}
+      <Graafik question={selectedQuestion} data={data[selectedQuestion]} />
+      {Object.keys(data).map(question => <Button
+        onClick={this.handleClick}
+        name={question}
+        variant={selectedQuestion === question ? "outline-info" : "outline-success"}
+        key={question}
+        className="mx-1 my-1"
+      >
+        {question}
+      </Button>
+      )}
     </div>
   }
 }

@@ -17,12 +17,11 @@ export default class Graafik extends React.Component {
         datasets: [
           {
             datalabels: {
-              color: '#000000',
               anchor: 'end',
               align: 'top'
             },
             data: Object.values(data),
-            backgroundColor: 'lightgrey'
+            backgroundColor: 'lightblue'
           }
         ]
       },
