@@ -39,6 +39,25 @@ Tallinna Ülikoolis on kohustuslike ainete hulgas ELU – erialasid lõimiv uuen
 
 Liitusin „Turvaline koolitee“ projektiga, kuna see on oluline teema ühiskonnas ja olen oma lapsi kooli saates pidanud sageli kokku puutuma ohtudega, mis lapsi varitsevad. ELU-projekti põhieesmärgiks on suurendada erinvate erialade tudengite omavahelise koostöö, ajaplaneerimise ja info kogumise ning analüüsimise oskuseid. Projekti alguses lootsin sujuvale meeskonnatööle ning et kõik liikmed peavad tähtaegadest kinni ja panustavad võrdselt. Alguses koostöö ei sujunud, kuid lõpuks leidsid kõik liikmed võimaluse ja aja projekti panustada. Keeruline oli töö kõrvalt meeskonnaga kokkusaamisteks kõigile sobivaid aegu leida. Õppisin suurema grupitöö puhul puutume kokku erinevate situatsioonidega ja inimestega. Enda aega tuleb hoolikalt planeerida ja ise olla ka osavõtlikum. Projekt kindlasti rikastas minu teadmisi ja andis juurde pingetaluvust, meeskonnatöö oskuseid ja oskust saadud informatsiooni analüüsid. Olen väga tänulik meie grupijuhile Inesele, kes meid pidevalt motiveeris projektiga tegelema ja asja lõpule viima. Samuti olen väga tänulik teisest grupist Henry Arnhold´ile, kes aitas koostada küsimustikud ja panustas väga palju oma aega „Turvaline koolitee“ projekti ja selle lõpptulemusse. Arvan, et projekti lõpptulemus annab hea ülevaate Järveotsa kooli juhtkonnale ja ka Haabersti Linnaosa Valitsusele, kes koostöös saavad kooli ümbrust lastele ohutumaks muuta.
 
+#### Jelizaveta Abramenkova
+ 
+Liitusin ELU projektiga „Turvaline koolitee“ kuna selle projekti põhiteema on seotud minu urbanistlikute huvide ja psühholoogia eriala tudengi teadmistega. Mulle tundus huvitav uurida erinevate transpordi valiku põhjuseid ja aru saada, kas selles valikus mängivad peamist rolli psühholoogiliseid või objektiivsed mõjurid. Lisahuvi ja motivatsioon tekkisid ka Tallinna Linnavalitsuse koostöö pärast ning see mõte, et meie töö saab tegelikult muuta Tallinna elanikute igapäevaelu paremaks ja nende liikumist turvalisemaks ja tervislikumaks. Saan julgelt väita, et leidsin kõik vastused oma küsimustele projekti käigus. 
+Oli ka hea kogemus töötada uute erinevate inimestega ühes grupis, kus igaüks sai vastavalt oma tegevusvaldkonnale ja taustale kaasa lüüa. Igaühel oli oma enda roll ja panus. Muidugi, grupitööde tavade järgi olid meil töö käigus nii vastumeelsused kui ka head hetked, millal koostöö sujus ladusamalt. Meil oli ka väga tubli grupijuht, kelle motivatsiooni tänu on see projekt lõpuni viitud.
+Peamised järeldused, mis ma selle projektiga seoses tegin on järgmised: ajaplaneerimine on väga tähtis; selleks, et grupp töötaks paremini on vaja rohkem aega kommunitseerida ning teambuilding on ikkagi hea grupitöö oluline eeldus :) 
+
+Kuna olen tegelenud põhjalikult andmekogumise ning analüüsimisega, vastutasin portfoolios  
+ka selle osa eest, kuid kogu projekti jooksul tutvusin ma materjalidega, mis olid saadaval projekti ühises drive dokumendis. Portfoolio redigeerides toetusin materjalidele, mis meil allikate loetelus juba mainitud oli. Aga projekti alguses olin eriti põhjalikult uurinud ning läbi töötanud järgmiseid artikle:
+
+Haridusasutuse lähiümbruse liiklusohtude analüüs ja parendusettepanekud Haapsalu Linna Algkooli näitel
+
+http://www.liikluskasvatus.ee/wp-content/uploads/2018/06/Sillandi_diplomit%C3%B6%C3%B6.pdf
+
+Tallinna Mustamäe Gümnaasiumi 10.–12. klasside õpilaste transpordieelistused kooli liikumisel, neid mõjutavad tegurid ning mõju tervisele ja keskkonnale
+ 
+https://akadeemiake.ee/wp-content/uploads/2019/05/K6llamaa.pdf
+
+
+
 #### Cevin Anders Siim
 
 Liitusin ELU projektiga „Turvaline koolitee“ kuna see tundus minule kõige loogilisema ja eriala puudutava teemana. Tänapäeval on suureks probleemiks laste kehaline aktiivsus ja kõige lihtsam olekski seda vajadust täita kooli iseseisvalt liikudes(jalgsi, ühistranspordiga, rattaga jne).  Kindlasti on liiklusolukord muutunud viimase 20 aastaga kardinaalselt- autosid ja ohte on liikluses rohkem. Lapsevanemad sõidutavad oma võsukesi kooli turvalisuse pärast, samas sellega muudavad nad oma lapsi ohtude suhtes tähelepanematuteks. 
