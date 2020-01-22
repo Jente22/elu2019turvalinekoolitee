@@ -8,8 +8,11 @@ Allikate leidmise puhul toetusin eelkõige materjalile, mis oli saadaval projekt
 
 
 Tallinna Saksa Gümnaasiumi näitel tehtud uuringud
+
 https://www.etera.ee/zoom/32421/view?page=1&p=separate&search=Kaido%20Kesper&tool=search&view=489,939,1348,500 
+
 https://www.etera.ee/zoom/32403/view?page=1&p=separate&search=eve%20tellissaar&tool=search&view=463,1026,1348,500 
+
 Tallinna linna arengukava “Turvaline koolitee” 2008-2013
 https://www.tallinn.ee/est/g4169s38286 
 
@@ -84,6 +87,7 @@ Ei oska öelda, et meie rühmas oli tasakaalustatud koostöö, iga töötas oma 
 
 Viktoria Lehter:
 Mooses, K. (2017). Physical activity and sedentary time of 7–13 year-old Estonian students in different school day segments and compliance with physical activity recommendations. Tartu: Tartu Ülikool. lk. 9-10 https://dspace.ut.ee/bitstream/handle/10062/56798/mooses_kerli.pdf?sequence=1&isAllowed=y 
+
 Inseneribüroo Stratum (2003). Kooliõpilaste koolitee ohutustamine. Tallinn.  (51-52)
 http://rahvatervis.ut.ee/bitstream/1/1232/1/Stratum2003_3.pdf 
 
