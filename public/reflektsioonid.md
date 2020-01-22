@@ -8,11 +8,8 @@ Allikate leidmise puhul toetusin eelkõige materjalile, mis oli saadaval projekt
 
 
 Tallinna Saksa Gümnaasiumi näitel tehtud uuringud
-
 https://www.etera.ee/zoom/32421/view?page=1&p=separate&search=Kaido%20Kesper&tool=search&view=489,939,1348,500 
-
 https://www.etera.ee/zoom/32403/view?page=1&p=separate&search=eve%20tellissaar&tool=search&view=463,1026,1348,500 
-
 Tallinna linna arengukava “Turvaline koolitee” 2008-2013
 https://www.tallinn.ee/est/g4169s38286 
 
@@ -52,11 +49,8 @@ Kuna olen tegelenud põhjalikult andmekogumise ning analüüsimisega, vastutasin
 ka selle osa eest, kuid kogu projekti jooksul tutvusin ma materjalidega, mis olid saadaval projekti ühises drive dokumendis. Portfoolio redigeerides toetusin materjalidele, mis meil allikate loetelus juba mainitud oli. Aga projekti alguses olin eriti põhjalikult uurinud ning läbi töötanud järgmiseid artikle:
 
 Haridusasutuse lähiümbruse liiklusohtude analüüs ja parendusettepanekud Haapsalu Linna Algkooli näitel
-
 http://www.liikluskasvatus.ee/wp-content/uploads/2018/06/Sillandi_diplomit%C3%B6%C3%B6.pdf
-
 Tallinna Mustamäe Gümnaasiumi 10.–12. klasside õpilaste transpordieelistused kooli liikumisel, neid mõjutavad tegurid ning mõju tervisele ja keskkonnale
- 
 https://akadeemiake.ee/wp-content/uploads/2019/05/K6llamaa.pdf
 
 
@@ -75,9 +69,7 @@ Tunded ja mõtteid saan väljendada adekvaatsemalt alles siis, kui projekt tões
 Ootused ja reaalsus ei vastand minu lootustele. Projekti käigus tekkis palju segadust ja arusaamatust- osad polnud seotud meiliga või drive’iga ning seetõttu ei jõudnud teatud informatsioon kõigini õigeaegselt kohale. Lõpuks said kõik probleemid omale lahenduse ja projekt hakkas ilmet võtma. Sellegi poolest sain teada kolme kooli näitel, kuidas liiguvad lapsed kooli ning kuidas hinnati oma koolitee turvalisust.
 
 Keskendusin rohkem füüsilise liikumise ja tervise aspektile ning lisaks töötasin läbi ka ülejäänud materjalid.
-
 Sotsiaalministeerium (2016). Toitumise ja liikumise roheline raamat. Tallinn: Tallinna sotsiaalministeeriumi rahvatervise osakond. (13) https://www.sm.ee/sites/default/files/content-editors/Tervishoid/tervise_roheline_raamat/toitumise_ja_liikumise_roheline_raamat_15.11versioon.pdf
-
 Sotsiaalministeerium (2008, täiendatud 2012). Rahvastiku tervise arengukava 2009–2020. Tallinn: sotsiaalministeeriumi rahvatervise osakond https://www.sm.ee/sites/default/files/content-editors/eesmargid_ja_tegevused/Tervis/2012_rta_pohitekst_ok_5.pdf
 
 #### Viktoria Lehter
@@ -87,7 +79,6 @@ Ei oska öelda, et meie rühmas oli tasakaalustatud koostöö, iga töötas oma 
 
 Viktoria Lehter:
 Mooses, K. (2017). Physical activity and sedentary time of 7–13 year-old Estonian students in different school day segments and compliance with physical activity recommendations. Tartu: Tartu Ülikool. lk. 9-10 https://dspace.ut.ee/bitstream/handle/10062/56798/mooses_kerli.pdf?sequence=1&isAllowed=y 
-
 Inseneribüroo Stratum (2003). Kooliõpilaste koolitee ohutustamine. Tallinn.  (51-52)
 http://rahvatervis.ut.ee/bitstream/1/1232/1/Stratum2003_3.pdf 
 
