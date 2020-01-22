@@ -4,11 +4,32 @@ Projekt oli teema ning olemuse poolest üsnagi huvitav ning kuna ma ei ole Talli
 
 Isiklikust vaatenurgast leian, et õppisin projektist peamiselt oskust rühma juhtida ja suutlikust olla kogu rühmatöö organiseerimise eest vastutav isik. Nimetatud õpiväljundid on väga kasulikud tulevastes suurema mastaabiga rühmatöödes, kus võib taaskord juhtuda, et pean asjaolude sunnil juhtimise enda peale võtma. Projektile aitas minu silmis palju kaasa ka asjaolu, et eesmärke täideti kolme grupi koostööna. Tänu sellele olid projekti tulemused asjakohasemad ning ühiselt sai tehtud ära palju rohkem, kui seda oleks suutnud teha iga rühm omaette.
 
+Allikate leidmise puhul toetusin eelkõige materjalile, mis oli saadaval projekti ühises drive dokumendis. Pilgu heitsin peale kõigile etteantud linkidele kuid süvitsi töötasin läbi  Eve Tellissaare ja Kaido Kesperi uuringud turvalise koolitee teemal, valitud kooliks oli Tallinna Saksa Gümnaasium. Lisaks süvenesin Tartu Ülikooli poolt loodud arengukavasse, mis sarnaneb meie projektiga, kuid on suurema mastaabiga ja kujutab endast terviklikku arengukava, mida Tallinna linn kasutas aastatel 2008-2013. Kuna nimetatud materjalidega tutvusid ka teised rühmaliikmed ning portfoolio kirjutamine toimus ühistööna, ei kirjutanud ma üksinda pikki juppe teoreetilisse ossa, vaid ühiselt teiste liikmetega lisasin teksti informatsiooni ning detaile,  lisaks tegin parandusi ja lisandusi olemasolevasse. 
+
+
+Tallinna Saksa Gümnaasiumi näitel tehtud uuringud
+https://www.etera.ee/zoom/32421/view?page=1&p=separate&search=Kaido%20Kesper&tool=search&view=489,939,1348,500 
+https://www.etera.ee/zoom/32403/view?page=1&p=separate&search=eve%20tellissaar&tool=search&view=463,1026,1348,500 
+Tallinna linna arengukava “Turvaline koolitee” 2008-2013
+https://www.tallinn.ee/est/g4169s38286 
+
 #### Laidy Proosväli
 
 Projekt „Turvaline koolitee“ kõnetas ELU projektide hulgast enim just isiklikel põhjustel. Töö käigus aga selgus, et projekti sisuline pool siiski otseselt minu isiklikku huvisfääri ei satu, samas üldisi teadmisi eelnimetatud valdkonnas täiendaks kindlasti. Ka ei tekkinud kahtlust projekti olulisuses ja päevakajalisuses.
 
 Kuigi Pean ELU kontseptsiooni huvitavaks ja tänuväärseks, siis erinevate gruppide juhuslikkuse alusel moodustamisel julgesin sünergia tekkimise kahtluse alla seada. Meie grupi dünaamika ja koostöö käima saamine lonkas ühte või kahte jalga kogu projekti jooksul. Selles mängisid rolli grupiliikmete erinevad ajalise võimalused, huvi, motivatsioon ja kindlasti veel paljud nimetamata faktorid. Ühtsus jäi lõpuni leidmata ja koostöö sujus nurgeliselt. Siiski viisid projektis osalejad end ajapikku, pigem hiljem, kui varem, kogu projekti puudutavaga kurssi ja tulemus sai jõu ja nõuga, rohkem vist jõuga, kokku pandud. Isiklikult õppisin projekti käigus hindama oma võimeid ja leidma abi ka grupiväliselt (teistelt sama teemage tegelevatelt gruppidelt), kui see vajalikuks osutus. Ka projekti lõpptulemust analüüsides leidsin, et see annab väga sisuka infopagasi Järveotsa gümnaasiumile nende kooli ümbruses toimuvast. Kokkuvõtvalt tsiteeriksin klassikuid:“ Hea, eet see veel niigi läits!“
+
+Lisaks blogis välja toodud linkidele, viisin end portfooliot täiendades ja redigeerides kurssi ka allolevate üldisfmat laadi liiklusohutuse- ja linnaliikluse teemaliste artiklitega, et leida ühisosi ja mõtteid.
+https://ec.europa.eu/transport/road_safety/sites/roadsafety/files/pdf/scoreboard_2017_en.pdf
+https://ec.europa.eu/transport/road_safety/sites/roadsafety/files/vademecum_2018.pdf
+https://www.roheline.ee/userfiles/file/publikatsioonid/liiklus.html#1.%20peat%C3%BCkk
+https://blog.stat.ee/tag/autostumine/ 
+https://www.europarl.europa.eu/news/et/headlines/priorities/transpordiohutuse-suurendamine/20190410STO36615/liiklussurmade-statistika-elis-infograafik
+https://elik.nlib.ee/2017-aastal-vahenes-elis-liiklussurmade-arv-koige-enam-eestis/
+ 
+http://www.pealinn.ee/tagid/koik/linna-keskkond-mojutab-arvatust-enam-inimese-tervist-n242884
+http://www.liikluskasvatus.ee/opetajale/uldhariduskool/ii-kooliaste/koolitee-kaardistamine/
+ http://www.rahumae.tln.edu.ee/sisu/koolitee-ussimang-algklassidele
 
 #### Kristi Beljajev
 
@@ -31,10 +52,21 @@ Tulevikus oskan rohkem hinnata töö tõsisust ning luua eelnevalt töökava, mi
 Tunded ja mõtteid saan väljendada adekvaatsemalt alles siis, kui projekt tõesti läbi saab ja hinne teada on. Hetkel on pinge veel laes, muidugi on pinge seotud ka teiste ainetega ja eelkõige seotud lõputööga. 
 Ootused ja reaalsus ei vastand minu lootustele. Projekti käigus tekkis palju segadust ja arusaamatust- osad polnud seotud meiliga või drive’iga ning seetõttu ei jõudnud teatud informatsioon kõigini õigeaegselt kohale. Lõpuks said kõik probleemid omale lahenduse ja projekt hakkas ilmet võtma. Sellegi poolest sain teada kolme kooli näitel, kuidas liiguvad lapsed kooli ning kuidas hinnati oma koolitee turvalisust.
 
+Keskendusin rohkem füüsilise liikumise ja tervise aspektile ning lisaks töötasin läbi ka ülejäänud materjalid.
+
+Sotsiaalministeerium (2016). Toitumise ja liikumise roheline raamat. Tallinn: Tallinna sotsiaalministeeriumi rahvatervise osakond. (13) https://www.sm.ee/sites/default/files/content-editors/Tervishoid/tervise_roheline_raamat/toitumise_ja_liikumise_roheline_raamat_15.11versioon.pdf
+
+Sotsiaalministeerium (2008, täiendatud 2012). Rahvastiku tervise arengukava 2009–2020. Tallinn: sotsiaalministeeriumi rahvatervise osakond https://www.sm.ee/sites/default/files/content-editors/eesmargid_ja_tegevused/Tervis/2012_rta_pohitekst_ok_5.pdf
+
 #### Viktoria Lehter
 
 Mul oli tunne, et “Turvaline koolitee” võimaldab seostada huvi, olemasolevaid teadmisi projekti ideega. Mulle meeldib suhelda lastega, jagada nendega oma oskusi ja teadmisi, otsida lähenemist, samas pean mõtlema laste heaolu ja turvalisuse peale. Ja nimelt sellepärast valisin projekti, et oli tunne, et on võimalus saada uusi kogemusi koostöö käigus ning väljendada oma ideid, mille tulemuseks oleks ühine panus projekti, ootasin, et tuleb midagi loominguline, huvitav ja kasulik.
 Ei oska öelda, et meie rühmas oli tasakaalustatud koostöö, iga töötas oma tempos. Igal juhul kõik jõudsid tähtajaks ning kõik töö osad on tehtud. Samuti meie rühmas olid toredad inimesed, kes täitsid oma osa ja mõnikord võtsid endale rohkem kui oli vaja, nimelt see asi motiveeris mind, kuna ma mõistsin, et on teised inimesed, kelle ees mul on vastutus teha oma osa nii hästi, kui oskan, ehk  hoolikalt töödelda allikaid, et seostada olemasolevat informatsiooni meie tööga, kirjutada mahukalt, sisukalt ja arusaadavalt. Mul on hea meel, et alati oli võimalus väljendada oma mõtteid ja arvamust, esitada küsimusi ja saada kiiret vastust, suunamist või abi.
+
+Viktoria Lehter:
+Mooses, K. (2017). Physical activity and sedentary time of 7–13 year-old Estonian students in different school day segments and compliance with physical activity recommendations. Tartu: Tartu Ülikool. lk. 9-10 https://dspace.ut.ee/bitstream/handle/10062/56798/mooses_kerli.pdf?sequence=1&isAllowed=y 
+Inseneribüroo Stratum (2003). Kooliõpilaste koolitee ohutustamine. Tallinn.  (51-52)
+http://rahvatervis.ut.ee/bitstream/1/1232/1/Stratum2003_3.pdf 
 
 #### Nika Nedoseikina
 
