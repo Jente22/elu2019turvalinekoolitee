@@ -9,6 +9,7 @@ https://www.etera.ee/zoom/32421/view?page=1&p=separate&search=Kaido%20Kesper&too
 https://www.etera.ee/zoom/32403/view?page=1&p=separate&search=eve%20tellissaar&tool=search&view=463,1026,1348,500 
 Tallinna linna arengukava “Turvaline koolitee” 2008-2013
 https://www.tallinn.ee/est/g4169s38286 
+
 #### Laidy Proosväli
 
 Projekt „Turvaline koolitee“ kõnetas ELU projektide hulgast enim just isiklikel põhjustel. Töö käigus aga selgus, et projekti sisuline pool siiski otseselt minu isiklikku huvisfääri ei satu, samas üldisi teadmisi eelnimetatud valdkonnas täiendaks kindlasti. Ka ei tekkinud kahtlust projekti olulisuses ja päevakajalisuses.
