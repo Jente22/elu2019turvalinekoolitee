@@ -10,16 +10,20 @@ export default class Vastused extends React.Component {
     this.state = {}
   }
   componentDidMount() {
+    //Papa.parse(process.env.PUBLIC_URL + 'tulemused_' + this.props.type + '.csv', {
     Papa.parse(`https://raw.githubusercontent.com/Jente22/elu2019turvalinekoolitee/master/public/tulemused_${this.props.type}.csv`, {
       download: true,
       header: true,
+      skipEmptyLines: true,
       complete: (results) => {
         var questions = Object.keys(results.data[0])
         var data = {}
         questions.map(question => data[question] = {})
         results.data.map(row =>
           questions.map(question =>
-            data[question][row[question]] = (data[question][row[question]] || 0) + 1
+            row[question].split('+').map(answer =>
+              data[question][answer] = (data[question][answer] || 0) + 1
+            )
           )
         )
         delete data['Aeg']
