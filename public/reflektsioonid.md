@@ -37,6 +37,13 @@ Tallinna Ülikoolis on kohustuslike ainete hulgas ELU – erialasid lõimiv uuen
 
 Liitusin „Turvaline koolitee“ projektiga, kuna see on oluline teema ühiskonnas ja olen oma lapsi kooli saates pidanud sageli kokku puutuma ohtudega, mis lapsi varitsevad. ELU-projekti põhieesmärgiks on suurendada erinvate erialade tudengite omavahelise koostöö, ajaplaneerimise ja info kogumise ning analüüsimise oskuseid. Projekti alguses lootsin sujuvale meeskonnatööle ning et kõik liikmed peavad tähtaegadest kinni ja panustavad võrdselt. Alguses koostöö ei sujunud, kuid lõpuks leidsid kõik liikmed võimaluse ja aja projekti panustada. Keeruline oli töö kõrvalt meeskonnaga kokkusaamisteks kõigile sobivaid aegu leida. Õppisin suurema grupitöö puhul puutume kokku erinevate situatsioonidega ja inimestega. Enda aega tuleb hoolikalt planeerida ja ise olla ka osavõtlikum. Projekt kindlasti rikastas minu teadmisi ja andis juurde pingetaluvust, meeskonnatöö oskuseid ja oskust saadud informatsiooni analüüsid. Olen väga tänulik meie grupijuhile Inesele, kes meid pidevalt motiveeris projektiga tegelema ja asja lõpule viima. Samuti olen väga tänulik teisest grupist Henry Arnhold´ile, kes aitas koostada küsimustikud ja panustas väga palju oma aega „Turvaline koolitee“ projekti ja selle lõpptulemusse. Arvan, et projekti lõpptulemus annab hea ülevaate Järveotsa kooli juhtkonnale ja ka Haabersti Linnaosa Valitsusele, kes koostöös saavad kooli ümbrust lastele ohutumaks muuta.
 
+Sotsiaalministeerium (2016). Toitumise ja liikumise roheline raamat. Tallinn: Tallinna sotsiaalministeeriumi rahvatervise osakond. (13) https://www.sm.ee/sites/default/files/content-editors/Tervishoid/tervise_roheline_raamat/toitumise_ja_liikumise_roheline_raamat_15.11versioon.pdf
+
+Sotsiaalministeerium (2008, täiendatud 2012). Rahvastiku tervise arengukava 2009–2020. Tallinn: sotsiaalministeeriumi rahvatervise osakond https://www.sm.ee/sites/default/files/content-editors/eesmargid_ja_tegevused/Tervis/2012_rta_pohitekst_ok_5.pdf
+Aasvee, K., Eha, M., Härm, T., Liiv, K., Oja, L., Tael, M. (2012). Eesti kooliõpilaste
+tervisekäitumine 2009/2010. õppeaasta Eesti HBSC uuringu raport. Tervise Arengu Instituut. https://intra.tai.ee//images/prints/documents/135591995867_Eesti_kooliopilaste_tervisekaitumine.pdf 
+
+
 #### Jelizaveta Abramenkova
  
 Liitusin ELU projektiga „Turvaline koolitee“ kuna selle projekti põhiteema on seotud minu urbanistlikute huvide ja psühholoogia eriala tudengi teadmistega. Mulle tundus huvitav uurida erinevate transpordi valiku põhjuseid ja aru saada, kas selles valikus mängivad peamist rolli psühholoogiliseid või objektiivsed mõjurid. Lisahuvi ja motivatsioon tekkisid ka Tallinna Linnavalitsuse koostöö pärast ning see mõte, et meie töö saab tegelikult muuta Tallinna elanikute igapäevaelu paremaks ja nende liikumist turvalisemaks ja tervislikumaks. Saan julgelt väita, et leidsin kõik vastused oma küsimustele projekti käigus. 
@@ -86,4 +93,19 @@ Liitusin ELU projektiga „Turvaline koolitee“ kuna projekt oli minu tegevusva
 Projekti käigus selgus, et lapsed tõepoolest liiguvad bussiga ja jala rohkem kui autoga.
  
 Grupi liikmed olid sõbralikud ja abivalmid. Tegin projekti jooksul niipalju kui aeg seda lubas, kuid oleks võinud teha rohkem. Projekt aitas komunikeerida inimestega ja arendas koostööd.
+
+https://ajaleht.laaneranna.ee/2018/08/29/turvaline-koolitee-algab-korralikust-ettevalmistusest/ 
+
+https://virumaateataja.postimees.ee/6796072/lapsed-said-turvalise-koolitee  
+
+https://sobranna.postimees.ee/3837599/koolitee-labi-laste-silmade 
+
+https://www.seesam.ee/blogi/kindlustaja-kutsub-kooliaasta-alguses-lapsevanemaid-autodest-loobuma-ja-lastega-kooliteed-labi-kaima/ 
+
+Greef de, L., Post, G., Vink, C & Wenting, L. (2017). Designing Interdisciplinary Education: a practical handbook for university teachers. Amsterdam: Amsterdam University Press
+Boud, D., Keogh, R. & Walker, D. (2013) Reflection: Turning experience into learning. Routledge
+ 
+Johns, C. (2017). Becoming a reflective practitioner. John Wiley & Sons.
+ 
+Kolb, D. A. (2014) Experiential learning: Experience as the source of learning and development. FT press
 
