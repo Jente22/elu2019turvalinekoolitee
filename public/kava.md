@@ -6,7 +6,9 @@ Projekti teostuse, ehk küsitluste läbiviimise puhul otsustasime kolme grupi ko
 
 Põhjaliku, kuid lihtsalt läbiviidava küsimustiku loomiseks plaaneerisime aega nii, et küsimustikkude läbiviimine ja vastuste analüüs paigutuksid novembrisse. Projekti tulemused ühtlustati detsembri alguses ning seejärel toimus kolme rühma tulemuste esitlus. Peale esitlust tegeletakse veel portfoolio täiendamisega  ning seejärel esitatakse tulemused kõigi projektis osalenud koolide kohta Tallinna Linnavalitsusele.
 
-#### Projekti kulg
+#### Projekti kulg ja aruanded
+
+Kuna enamus projekti tööst oli kolmel rühmal kattuv, (nt. küsimustikud, üldine tulemus) siis otsustasime peamised punktid/tulevased ülesanded alati üldkohtumistel. Rühmasiseseid kohtumisi toimus tudengite isiklike ajaplaanide erinevuste tõttu vaid paar korda, kus arutasime, kuhu oleme hetkeseisuga jõudnud ning mida me peaksime veel tegema, et rühmatöö sujuks edukamalt. Ülesannete jaotus toimus jooksvalt, peamiselt Facebooki keskkonda loodud grupivestlustes
 
 **19. september 2019**
 
@@ -24,6 +26,17 @@ Kohtumisel leppisime grupiga kokku järgmises:
 - tulevaseks üldkohtumiseks uurivad kõik projektis osalejad asjakohaseid materjale, varem tehtud uurimistöid ning muid liiklusohutusega seotud statistikaid, andmeid.
 - samuti töötasime läbi võimaluse kasutada Maanteeameti koolitee kaardistamise rakendust ning anda sellele järgmiseks kohtumiseks hinnang.
 
+Lühiaruanna 19.09.2019 üldkohtumisele:
+
+Osalejad: üldkohtumine
+
+Teemad: Projekti juhendaja ning Tallinna Linnavalitsuse esindajatega esmakohtumine, projekti esmane kondikava, rühmade moodustamine, ideede väljapakkumine ning arutelu. Rühmasiseseid vastutavaid isikuid veel välja ei valitud.
+
+Vastuvõetud otsused: informatsioon ja materjalid, mis töö jooksul kasutusele tulevad, sisestame ühisesse Google Drive dokumenti; igal rühmal on vabadus oma nägemise järgi koolidega koostööd teha, kuid suures plaanis toimub töö kolme grupi koostöös.
+
+Tulevased ülesanded: tulevaseks üldkohtumiseks uurivad kõik projektis osalejad asjakohaseid materjale, varem tehtud uurimistöid ning muid liiklusohutusega seotud statistikaid, andmeid. Samuti peaksid kõik uurima Maanteeameti koolitee kaardistamise rakendust ning andma sellele järgmiseks kohtumiseks hinnang.
+
+
 **2. oktoober 2019**
 
 Olime ühiselt tutvunud mitmesuguste materjalidega, mida jagati Drive´i dokumendis (vt. allikad). Uuritava kooli osas ei olnud me veel selleks ajaks üksmeelele jõudnud, kuna valikus olid mitmed koolid, sh Tallinna Kesklinna Vene Gümnaasium ja Järveotsa Gümnaasium. Kaalusime koolide puhul erinevaid aspekte, sh. kooli asukohta nii õpilaste koolitee suhtes, kui ka kooliümbruses olevate liikusolukorraga seoses.
@@ -32,7 +45,16 @@ Kaalusime plaani kaasata Maanteeameti poolt loodud rakenduse “Ohutu koolitee�
 
 Paika sai spetsiifilisem plaan. Otsustasime, et koolide uurimise viime läbi küsitluste abil, mis on suunatud kooli õpilastele ja nende vanematele. Leppisime kokku, et küsimustikud esitame elektroonilisel kujul ning küsimustiku loob projekti 1. rühma liige Henry Arnhold. Enne küsimustike ülesehituse juurde asumist, arutasime veel läbi, mida oma projektiga saavutada soovime, millised on küsimused ja valukohad, mis vajaksid erilist tähelepanu. Oluliseimad teemad  kajastuvad ühiselt valminud küsimustikes (vt. lisad).
 
+Lühiaruanne 02.10.2019 üldkohtumisele:
+
+Teemad: Vahekokkuvõtted allikatest, mida uuriti projekti teoreetilise osa tarbeks, tagasiside Maanteeameti rakendusele, koolide kohta info kogumise viiside kokkuleppimine.
+Vastuvõetud otsused: Otsustati, et Maanteeameti rakendust projektis kasutusele ei võeta, kuna selle kasutamine on laste jaoks keerukas ning see ei annaks meile piisavas koguses vajalikku pädevat infot; küsimustikud jõuavad laste ning lapsevanemateni elektroonilisel teel, selle eest vastutab 1. rühma liige Henry Arnhold; küsimustikkude ülesehitamine vajab pikemat perioodi ning nende ülesehitus saab toimuma tulevastel üldkohtumistel.
+
+Tulevased ülesanded: iga rühm peab laiali hakkama jagama rühmasiseseid ülesandeid, tuleb ära otsustada lõplikult oma koolivalik, luua kooliga esmased kontaktid, alustada tuleks ka projekti teoreetilise tausta loomisega läbitöötatud materjalide põhjal.
+
 **10. oktoober**
+
+Lühiaruanne 10.10.2019 grupikoosolekule: 
 
 Osalejad: Kõik liikmed, kuid osad liikmed pidid varem lahkuma.
 
@@ -48,13 +70,36 @@ Kuna projektiga on võimalik keskenduda väga mitmetele aspektidele, pidime veel
 
 Testintervjuude analüüsid valmisid veidi enne vahekokkuvõtete esitlemist ja tulemused oli ootuspärased. Loodi valmis küsimustikud kuid nende edastamisviis ning muu sellega kaasnev jäi iga rühma enda korraldada.
 
+Lühiaruanne 16.10.2019 üldkohtumisele: 
+
+Osalejad: üldkohtumine
+
+Teemad: Teema laiaulatuslikkuse tõttu pidime tegema plaanivälise üldkohtumise, et lõplikult kitsendada projekti suunitlust ja edasisi käike, testinterjvuu korraldamine küsimustikkude pädevuse kontrollimiseks.
+
+Vastuvõetud otsused: Enne vahekokkuvõtteid toimuvad testintervjuud, mille peab iga rühm läbi viima, meie rühmas oli testintervjuu läbiviijaks Kristi. 
+
+Tulevased ülesanded: testintervjuude läbiviimine, vahekokkuvõtete loomine ning nende esitamine.
+
 **22. oktoober**
 
 Vahekokkuvõtete esitlemine. Grupitöö oli langenud passiivsesse seisundisse ning seega jäi vahekokkuvõtte kirjaliku osa valmimine üsna viimasele hetkele. Grupijuht tuletas korduvalt rühmaliikmetele meelde, et vahearvestus läheneb ning oleks vaja abi vahekokkuvõtte koostamisel. Kirjaliku kokkuvõtte lõpliku versiooni valmistasid Ines ja Kristi. Vahekokkuvõtte esitlejaks määrati Cevin ja Nika. Esitluse päeval aga ilmnes, et Cevin ei saa esitlusest osa võtta ning Ines võttis sujuvalt selle ülesande enda kanda. Ajanappuse ja kohati puuduliku ettevalmistuse tõttu said meie esitlus ja projekt oodatust rohkem kriitikat.
 
 **13. november 2019**
 
+Osalejad: üldkohtumine
+
 Ühisel koosoekul lepiti kokku, et küsimustikkudele vastamise aeg on  2 nädalat al 18.11. Kinnitati küsimustiku viimane versioon. Vastuste kogumine lõppes 1. detsembril. Evelin edastas küsimustikud kooli ettenähtud ajal, kuid segastel põhjustel ei jõutud neid kohe sihtgruppidele edastada. Seetõttu jäi Järveotsa Gümnaasiumi küsimustikkudele  vastamise aeg veidi lühemaks kui 2 nädalat. Sellele vaatamata olid tulemused üle ootuste head.
+
+LÜhiaruanne 13.11.2019 üldkoosolekule: 
+
+Osalejad: üldkohtumine
+
+Teemad: Küsimustikke puudutavad küsimused, plaanid seoses lõpuesitlusega.
+
+Vastuvõetud otsused: Küsimustikkudele vastamiseks on õpilastel ja nende vanematel aega detsembrikuuni, esitluse kuupäevaks valiti 12. detsember, esitlus toimub kolme rühma koostöös.
+
+Tulevased ülesanded: iga rühm vastutab, et küsimustikud oleksid õigeks ajaks edastatud ning tulemid olemas detsembri esimesteks päevadeks. Iga rühm valib ühe esineja lõpuesitluseks, meie rühma esinejaks oli Cevin. Ühiselt luuakse esitlus 12. detsembri tarbeks ning alustada tuleks portfooliote kirjutamisega.
+
 
 **Detsembri 1. nädal**
 
@@ -63,6 +108,16 @@ Esimese rühma liige Henry jagab küsitluste tulemused koolide kaupa, et grupid 
 **12. detsember - esitlus**
 
 Esitlus kulges sujuvalt ,ette planeeritult, arusaadavalt  ja sai kuulajaskonnalt sooja vastuvõtu.
+
+**19. detsember - grupikohtumine**
+
+Osalejad: Ines, Kristi, Evelin, Liza, Nika, Viktoria
+
+Teemad: portfoolio ning viimaste ülesannete planeerimine
+
+Vastuvõetud otsused: Portfoolio koostamine jätkub ühiselt, kontakti hoitakse juhendajaga, et vajadusel teha parandusi ning täita võimalikke teisi ülesandeid, mida meilt nõutakse. Kuna enamus projektist on läbi, siis kindlaid ülesannete jaotusi enam ei toimu.
+
+Tulevased ülesanded: portfoolio valmis kirjutamine, sellele sobiliku esitusformaadi leidmine (otsustasime veebilehe kasuks), juhendaja poolt esitatud ülesannete täitmine ja enesereflektsioonide kirjutamine, projekti otsade kokku tõmbamine. 
 
 **Detsember-jaanuar**
 
