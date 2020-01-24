@@ -1,6 +1,6 @@
 #### Projekti lähteülesande, eesmärgi kirjeldus
 
-Projekti esmaseks eesmärgiks, nagu ka pealkiri ütleb, on välja selgitada kuidas hindavad Tallinna lapsed ja lapsevaneamad oma koolitee turvalisus. Lisaks püüame saada väärtuslikku infot, milliseid liikumisviise kasutavad lapsed kooli minemiseks ja sealt tulemiseks. Tõusva trendina on täheldatud, et lastevanemate seas on kombeks tuua lapsi kooli isikliku autoga. Keskendume lähemalt selle valiku põhjuste tagamaadele. Proovime leida vastuseid küsimusele, mis mõjutaksid lapsi ja lapsevanemaid tervislikemaid ja keskonnasõbralikemaid liikumisviise valima. Mida saab selleks teha Tallinna linn, et koolide ümbruses muutuks liikluskeskkond turvalisemaks ning tervise- ja keskonnasõbralikumad liikumisviisid muutuksid esmasteks valikuteks?
+Projekti esmaseks eesmärgiks, nagu ka pealkiri ütleb, on välja selgitada, kuidas hindavad  Tallinna lapsed ja lapsevanemad oma koolitee turvalisust. Lisaks püüame saada väärtuslikku infot, milliseid liikumisviise kasutavad lapsed kooli minemiseks ja sealt tulemiseks. Tõusva trendina on täheldatud, et lastevanemate seas on kombeks tuua lapsi kooli isikliku autoga. Keskendume lähemalt selle valiku põhjuste tagamaadele. Proovime leida vastuseid küsimusele, mis mõjutaksid lapsi ja lapsevanemaid tervislikemaid ja keskonnasõbralikemaid liikumisviise valima. Mida saab selleks teha Tallinna linn, et koolide ümbruses muutuks liikluskeskkond turvalisemaks ning tervise- ja keskonnasõbralikumad liikumisviisid muutuksid esmasteks valikuteks?
 
 Projekti tellijaks on Tallinna Linnavalistus ja saadud tulemused edastatakse linna uue arengukava koostamiseks.
 
@@ -8,7 +8,7 @@ Projekti tellijaks on Tallinna Linnavalistus ja saadud tulemused edastatakse lin
 
 Esmaseks probleemiks tooksime välja liiklusõnnetuste rohkuse. On selge, et koolide ümbrus on lastega liiklusõnnetuste toimumise riskipiirkond, kuna sinna koondub suur osa lastega seotud liikumistest. Seetõttu on kindlasti vajalik määrata kindlaks just koolide ümbruses aset leidnud liiklusõnnetuste riskitegurid.
 
-Tallinna Järeveotsa Gümnaasium kvalifitseerub kvartalisiseselt suhteliselt väikse liiklussagedusega, kuid reguleerimata liikluskorralduseg alaks. Lahendamata parkimiskorralduse tõttu suureneb liiklusoht märgatavalt. Samuti on probleemiks liikluse rahustamisvõtete puudumine, mistõttu juhid ei taju liiklusolukorda, kui jalakäijate liiklust soosivat. Selle tulemusena kasutatakse suuri sõidukiiruseid.
+Tallinna Järveotsa Gümnaasium kvalifitseerub kvartalisiseselt suhteliselt väikse liiklussagedusega, kuid reguleerimata liikluskorraldusega alaks. Lahendamata parkimiskorralduse tõttu suureneb liiklusoht märgatavalt. Samuti on probleemiks liikluse rahustamisvõtete puudumine, mistõttu juhid ei taju liiklusolukorda, kui jalakäijate liiklust soosivat. Selle tulemusena kasutatakse suuri sõidukiiruseid.
 
 Ohvrite arv liiklusõnnetustes on  viimastel aastatel kahanenud, kuid võrreldes teiste arenenud riikidega on näitaja endiselt kõrged. ( Liiklussurmade statistika EL-s infograafik, 29-04-2019)  Uuringud näitavad, et kellaaegade lõikes juhtub kooliealiste lastega enim liiklusõnnetusi hilisõhtusel ajal. Sellele järgneb õhtune tipptund. Kui aga vaadelda hommikust tipptundi (kell 7-8), siis on see märgatavalt ohtlikum, kui eelnev ja järgnev tund. Seda saab otseselt seostada laste koolimineku ajaga. (Tallinna arengukava „Turvaline Kooolitee“, 2008-2013)
 
@@ -42,9 +42,9 @@ Selleks, et eelnimetatud probleemide lahendustele lähemale jõuda, leidsime, et
 
 #### Tegevuse kirjeldus ja sidusgruppideni jõudmine
 
-Enne lõplike küsimustike koostamist otsustasime teha  testintervjuud, et jõuda selgusele, kas meie valitud suund ja küsimused on õige ja mida tasuks lõplikus küsimustikus  muuta ning millele rohkem või vähem tähelepanu pöörata. Kõik kolm gruppi tegid läbi intervjuu ühe lapsevanemaga grupikohtumistel arutluse all olnud ja valituks osutunud küsimustega. Vastused näitasid, et oleme õigel teel. Ostsutasime koostada sarnase küsimustiku nii lastele kui lastevanematele, et saada võimalikult lai ja adekvaatne pilt, kuidas mõlemad pooled tajuvad olukorda tõstatatud küsimustes.
+Enne lõplike küsimustike koostamist otsustasime teha  testintervjuud, et jõuda selgusele, kas meie valitud suund ja küsimused on õige ja mida tasuks lõplikus küsimustikus  muuta ning millele rohkem või vähem tähelepanu pöörata. Kõik kolm gruppi tegid läbi intervjuu ühe lapsevanemaga grupikohtumistel arutluse all olnud ja valituks osutunud küsimustega. Vastused näitasid, et oleme õigel teel. Otsutasime koostada sarnase küsimustiku nii lastele kui lastevanematele, et saada võimalikult lai ja adekvaatne pilt, kuidas mõlemad pooled tajuvad olukorda tõstatatud küsimustes.
 
-Koolide valimisel said grupid  vabad käed ja valitusk osutusid koolis, näitasid huvi käesoleva projekti vastu ning olid aktiivselt valmis igakülgseks koostööks.
+Koolide valimisel said grupid  vabad käed ja valituks osutusid koolis, näitasid huvi käesoleva projekti vastu ning olid aktiivselt valmis igakülgseks koostööks.
 
 Projektis osalevad kolm kooli: Tallinna Inglise Kolledž, Tallinna Järveotsa Gümnaasium ja Kadrioru Saksa Gümnaasium. Meie grupi kooliks sai Järveotsa Gümnaasium ja sihtgrupiks seal õppivad lapsed ja nende vanemad.
 
