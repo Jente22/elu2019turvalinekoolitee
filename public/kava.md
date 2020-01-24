@@ -20,21 +20,15 @@ Projekt “Turvaline koolitee” esimene kohtumine projekti juhendaja Heli Ainj�
 
 Projekti suunitluses ja valikutes jäeti vabad käed, mida rohkem erinevaid aspekte probleemi ning selle lahendamise juures leiame, seda parem. Peale lühikest arutelu jagunesime kolme rühma. Kuna terve Tallinna linna ohukohtade kaardistamine ja analüüsimine oleks nii lühiaegse projekti raames võimatu, otsustasime ühiselt, et iga rühm keskendub ühe Tallinna üldhariduskooli liikluskäitumise uurimisele. Lõpptulemused, mis edastatakse Tallinna Linnavalitsusele, loome aga kolme grupi koostöös.
 
-Kohtumisel leppisime grupiga kokku järgmises:
+**Lühiaruanne 19.09.2019 üldkohtumisele:**
 
-- informatsioon ja materjalid, mis töö jooksul kasutusele tulevad, sisestame ühisesse Google Drive dokumenti
-- tulevaseks üldkohtumiseks uurivad kõik projektis osalejad asjakohaseid materjale, varem tehtud uurimistöid ning muid liiklusohutusega seotud statistikaid, andmeid.
-- samuti töötasime läbi võimaluse kasutada Maanteeameti koolitee kaardistamise rakendust ning anda sellele järgmiseks kohtumiseks hinnang.
+**Osalejad:** üldkohtumine
 
-Lühiaruanna 19.09.2019 üldkohtumisele:
+**Teemad:** Projekti juhendaja ning Tallinna Linnavalitsuse esindajatega esmakohtumine, projekti esmane kondikava, rühmade moodustamine, ideede väljapakkumine ning arutelu. Rühmasiseseid vastutavaid isikuid veel välja ei valitud.
 
-Osalejad: üldkohtumine
+**Vastuvõetud otsused:** informatsioon ja materjalid, mis töö jooksul kasutusele tulevad, sisestame ühisesse Google Drive dokumenti; igal rühmal on vabadus oma nägemise järgi koolidega koostööd teha, kuid suures plaanis toimub töö kolme grupi koostöös.
 
-Teemad: Projekti juhendaja ning Tallinna Linnavalitsuse esindajatega esmakohtumine, projekti esmane kondikava, rühmade moodustamine, ideede väljapakkumine ning arutelu. Rühmasiseseid vastutavaid isikuid veel välja ei valitud.
-
-Vastuvõetud otsused: informatsioon ja materjalid, mis töö jooksul kasutusele tulevad, sisestame ühisesse Google Drive dokumenti; igal rühmal on vabadus oma nägemise järgi koolidega koostööd teha, kuid suures plaanis toimub töö kolme grupi koostöös.
-
-Tulevased ülesanded: tulevaseks üldkohtumiseks uurivad kõik projektis osalejad asjakohaseid materjale, varem tehtud uurimistöid ning muid liiklusohutusega seotud statistikaid, andmeid. Samuti peaksid kõik uurima Maanteeameti koolitee kaardistamise rakendust ning andma sellele järgmiseks kohtumiseks hinnang.
+**Tulevased ülesanded:** tulevaseks üldkohtumiseks uurivad kõik projektis osalejad asjakohaseid materjale, varem tehtud uurimistöid ning muid liiklusohutusega seotud statistikaid, andmeid. Samuti peaksid kõik uurima Maanteeameti koolitee kaardistamise rakendust ning andma sellele järgmiseks kohtumiseks hinnang.
 
 
 **2. oktoober 2019**
