@@ -22,13 +22,13 @@ Projekti suunitluses ja valikutes jäeti vabad käed, mida rohkem erinevaid aspe
 
 **Lühiaruanne 19.09.2019 üldkohtumisele:**
 
-**Osalejad:** üldkohtumine
+*Osalejad:* üldkohtumine
 
-**Teemad:** Projekti juhendaja ning Tallinna Linnavalitsuse esindajatega esmakohtumine, projekti esmane kondikava, rühmade moodustamine, ideede väljapakkumine ning arutelu. Rühmasiseseid vastutavaid isikuid veel välja ei valitud.
+*Teemad:* Projekti juhendaja ning Tallinna Linnavalitsuse esindajatega esmakohtumine, projekti esmane kondikava, rühmade moodustamine, ideede väljapakkumine ning arutelu. Rühmasiseseid vastutavaid isikuid veel välja ei valitud.
 
-**Vastuvõetud otsused:** informatsioon ja materjalid, mis töö jooksul kasutusele tulevad, sisestame ühisesse Google Drive dokumenti; igal rühmal on vabadus oma nägemise järgi koolidega koostööd teha, kuid suures plaanis toimub töö kolme grupi koostöös.
+*Vastuvõetud otsused:* informatsioon ja materjalid, mis töö jooksul kasutusele tulevad, sisestame ühisesse Google Drive dokumenti; igal rühmal on vabadus oma nägemise järgi koolidega koostööd teha, kuid suures plaanis toimub töö kolme grupi koostöös.
 
-**Tulevased ülesanded:** tulevaseks üldkohtumiseks uurivad kõik projektis osalejad asjakohaseid materjale, varem tehtud uurimistöid ning muid liiklusohutusega seotud statistikaid, andmeid. Samuti peaksid kõik uurima Maanteeameti koolitee kaardistamise rakendust ning andma sellele järgmiseks kohtumiseks hinnang.
+*Tulevased ülesanded:* tulevaseks üldkohtumiseks uurivad kõik projektis osalejad asjakohaseid materjale, varem tehtud uurimistöid ning muid liiklusohutusega seotud statistikaid, andmeid. Samuti peaksid kõik uurima Maanteeameti koolitee kaardistamise rakendust ning andma sellele järgmiseks kohtumiseks hinnang.
 
 
 **2. oktoober 2019**
@@ -44,7 +44,7 @@ Paika sai spetsiifilisem plaan. Otsustasime, et koolide uurimise viime läbi kü
 *Teemad:* Vahekokkuvõtted allikatest, mida uuriti projekti teoreetilise osa tarbeks, tagasiside Maanteeameti rakendusele, koolide kohta info kogumise viiside kokkuleppimine.
 *Vastuvõetud otsused:* Otsustati, et Maanteeameti rakendust projektis kasutusele ei võeta, kuna selle kasutamine on laste jaoks keerukas ning see ei annaks meile piisavas koguses vajalikku pädevat infot; küsimustikud jõuavad laste ning lapsevanemateni elektroonilisel teel, selle eest vastutab 1. rühma liige Henry Arnhold; küsimustikkude ülesehitamine vajab pikemat perioodi ning nende ülesehitus saab toimuma tulevastel üldkohtumistel.
 
-*Tulevased* ülesanded: iga rühm peab laiali hakkama jagama rühmasiseseid ülesandeid, tuleb ära otsustada lõplikult oma koolivalik, luua kooliga esmased kontaktid, alustada tuleks ka projekti teoreetilise tausta loomisega läbitöötatud materjalide põhjal.
+*Tulevased ülesanded:* iga rühm peab laiali hakkama jagama rühmasiseseid ülesandeid, tuleb ära otsustada lõplikult oma koolivalik, luua kooliga esmased kontaktid, alustada tuleks ka projekti teoreetilise tausta loomisega läbitöötatud materjalide põhjal.
 
 **10. oktoober**
 
