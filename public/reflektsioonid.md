@@ -5,10 +5,10 @@ Kui projekti kulgemist täpsemalt kirjeldada, siis minu peamisteks ülesanneteks
 Isiklikust vaatenurgast leian, et õppisin projektist peamiselt oskust rühma juhtida ja suutlikust olla kogu rühmatöö organiseerimise eest vastutav isik. Nimetatud õpiväljundid on väga kasulikud tulevastes suurema mastaabiga rühmatöödes, kus võib taaskord juhtuda, et pean asjaolude sunnil juhtimise enda peale võtma. Projektile aitas minu silmis palju kaasa ka asjaolu, et eesmärke täideti kolme grupi koostööna. Tänu sellele olid projekti tulemused asjakohasemad ning ühiselt sai tehtud ära palju rohkem, kui seda oleks suutnud teha iga rühm omaette.
 
 Tallinna Saksa Gümnaasiumi näitel tehtud uuringud
-https://www.etera.ee/zoom/32421/view?page=1&p=separate&search=Kaido%20Kesper&tool=search&view=489,939,1348,500 
-https://www.etera.ee/zoom/32403/view?page=1&p=separate&search=eve%20tellissaar&tool=search&view=463,1026,1348,500 
-Tallinna linna arengukava “Turvaline koolitee” 2008-2013
-https://www.tallinn.ee/est/g4169s38286 
+-https://www.etera.ee/zoom/32421/view?page=1&p=separate&search=Kaido%20Kesper&tool=search&view=489,939,1348,500 
+-https://www.etera.ee/zoom/32403/view?page=1&p=separate&search=eve%20tellissaar&tool=search&view=463,1026,1348,500 
+-Tallinna linna arengukava “Turvaline koolitee” 2008-2013
+-https://www.tallinn.ee/est/g4169s38286 
 
 #### Laidy Proosväli
 
@@ -34,11 +34,12 @@ Lisaks blogis välja toodud linkidele, viisin end portfooliot täiendades ja red
 Tallinna Ülikoolis on kohustuslike ainete hulgas ELU – erialasid lõimiv uuendus, mille eesmärgiks on erinevate erialade tudengitega teha koostööd, et saada kogemus ja läbi projekti panustada ühiskonda. Liitusin antud projektiga „Turvaline koolitee“, kuna see on väga oluline ja aktuaalne teema meie ühiskonnas. Projektiga liitudes ei olnud mul suuri ootusi, vaid tahtsin, et koostöö sujuks hästi ja kõik rühmaliikmed panustaksid ühisesse ettevõtmisesse. Õppisin kindlasti seda, et elus koostöös tehes puutume kokku erinevate inimeste ja situatsioonidega, kus tuleb arvestada sellega, et lõpptulem ei saa alati olla nii idealistlik, kui oled alguses oodanud. Kindlasti saab siin teha märkusi endale, et oma aega paremini planeerida ja olla osavõtlikum. Selline kogemus on kindlasti rikastav ja annab palju juurde. See õpetab arvestama teiste inimestega, kuulama, tegutsema, aega planeerima, koostööd tegema ja pingeid taluma. Tulevikus oskan rohkem arvestada sellega, et aega tuleb alati rohkem võtta, kui sellega arvestatud on, kuna kunagi ei tea kas kõik inimesed meie ühtses eesmärgis peavad lõpuni vastu ja on usaldusväärsed ning endalgi võib juhuse tahtel tulla palju muid toimetamisi ette. Olen ääretult tänulik meie grupijuhile Ines Safjanova´le, kes meid motiveeris pidevalt asjaga tegelema ja tänu kellele me ka ennast kokku võtsime. Väga tänulik oleme ka Henry Arnhold´ile, kes on sellesse projekti isiklikult väga palju aega panustanud ja tänu temale saime me selle ellu viia. Terve projekti raames sai tehtud erinevaid ülesandeid, millele kulus omajagu aega. Panustasin üldkohtumistele, rühmasisestele kohtumistele, teoreetilise baasi otsimisele ja läbitöötamisele, vahenädala kokkuvõtte loomisele, koostööle kooliga, testintervjuu läbiviimisele, suhtlusele rühmaliikmetega, lõpuesitlusel osalemisele, portfoolio kirjutamisele ja redigeerimisele. Võttes konkreetsemalt kokku võib öeda, et kõige rohkem panustasin sellele, et viia ennast kurssi antud teemaga, tegelesin sellega, et küsitlusele oleks rohkem vastajaid, viisin läbi testintervjuu, analüüsisin põhjalikult lastele suunatud küsimuste vastuseid ja tulemusi, panustasin portfoolio valmimisse.
 
 Aasvee, K., Eha, M., Härm, T., Liiv, K., Oja, L., Tael, M. (2012). Eesti kooliõpilaste
-tervisekäitumine 2009/2010. õppeaasta Eesti HBSC uuringu raport. Tervise Arengu Instituut. https://intra.tai.ee//images/prints/documents/135591995867_Eesti_kooliopilaste_tervisekaitumine.pdf 
+tervisekäitumine 2009/2010. õppeaasta Eesti HBSC uuringu raport. Tervise Arengu Instituut.https://intra.tai.ee//images/prints/documents/135591995867_Eesti_kooliopilaste_tervisekaitumine.pdf 
 
-Sotsiaalministeerium (2008, täiendatud 2012). Rahvastiku tervise arengukava 2009–2020. Tallinn: sotsiaalministeeriumi rahvatervise osakond https://www.sm.ee/sites/default/files/content-editors/eesmargid_ja_tegevused/Tervis/2012_rta_pohitekst_ok_5.pdf
+Sotsiaalministeerium (2008, täiendatud 2012). Rahvastiku tervise arengukava 2009–2020. Tallinn: sotsiaalministeeriumi rahvatervise osakond 
+-https://www.sm.ee/sites/default/files/content-editors/eesmargid_ja_tegevused/Tervis/2012_rta_pohitekst_ok_5.pdf
 
-Sotsiaalministeerium (2016). Toitumise ja liikumise roheline raamat. Tallinn: Tallinna sotsiaalministeeriumi rahvatervise osakond. (13) https://www.sm.ee/sites/default/files/content-editors/Tervishoid/tervise_roheline_raamat/toitumise_ja_liikumise_roheline_raamat_15.11versioon.pdf
+-Sotsiaalministeerium (2016). Toitumise ja liikumise roheline raamat. Tallinn: Tallinna sotsiaalministeeriumi rahvatervise osakond. (13) -https://www.sm.ee/sites/default/files/content-editors/Tervishoid/tervise_roheline_raamat/toitumise_ja_liikumise_roheline_raamat_15.11versioon.pdf
 
 #### Evelin Alamaa 
 
