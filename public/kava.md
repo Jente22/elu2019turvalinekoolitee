@@ -28,6 +28,8 @@ Kohtumisel leppisime grupiga kokku järgmises:
 
 Olime ühiselt tutvunud mitmesuguste materjalidega, mida jagati Drive´i dokumendis (vt. allikad). Uuritava kooli osas ei olnud me veel selleks ajaks üksmeelele jõudnud, kuna valikus olid mitmed koolid, sh Tallinna Kesklinna Vene Gümnaasium ja Järveotsa Gümnaasium. Kaalusime koolide puhul erinevaid aspekte, sh. kooli asukohta nii õpilaste koolitee suhtes, kui ka kooliümbruses olevate liikusolukorraga seoses.
 
+Kaalusime plaani kaasata Maanteeameti poolt loodud rakenduse “Ohutu koolitee” kaasamist peojekti. Koduseks ülesandeks jäi rakenduse katsetamine lapsega, et saada aru antud rakenduse kasutamise otstarbekusest. Ülesandeks sai hinnata rakenduse keerulisust.
+
 Paika sai spetsiifilisem plaan. Otsustasime, et koolide uurimise viime läbi küsitluste abil, mis on suunatud kooli õpilastele ja nende vanematele. Leppisime kokku, et küsimustikud esitame elektroonilisel kujul ning küsimustiku loob projekti 1. rühma liige Henry Arnhold. Enne küsimustike ülesehituse juurde asumist, arutasime veel läbi, mida oma projektiga saavutada soovime, millised on küsimused ja valukohad, mis vajaksid erilist tähelepanu. Oluliseimad teemad  kajastuvad ühiselt valminud küsimustikes (vt. lisad).
 
 **3.-15. oktoober**
@@ -38,7 +40,7 @@ Grupisiseselt arutluse käigus jõusdime üksmeelele kooli valiku suhtes. Valitu
 
 Kuna projektiga on võimalik keskenduda väga mitmetele aspektidele, pidime veelkorra ühiselt oma teemasuunitluse peale mõtlema. Arutlesime, et ehk lapsevanemad ei leiagi, et koolitee oleks lastele ohtlik ning nad viivad lapsi kooli autoga mugavuse vms. eesmärgi tõttu. Vältimaks lõpptulemuste kaldumist projekti eesmärkidest eemale, korraldas iga rühm test-intervjuu ühe lapsevanemaga, mille põhjal saime kindlust oma projekti suunitluse suhtes. Meie rühma test-intervjuu viis läbi ja edastas kõigile rühmadele Kristi Beljajev.
 
-Testintervjuude analüüsid valmisid veidi enne vahekokkuvõtete esitlemist ja tulemused oli ootuspärased. Loodi valmis küsimustikud ja nende edastamisviis ning muu sellega kaasnev jäi iga rühma enda korraldada.
+Testintervjuude analüüsid valmisid veidi enne vahekokkuvõtete esitlemist ja tulemused oli ootuspärased. Loodi valmis küsimustikud kuid nende edastamisviis ning muu sellega kaasnev jäi iga rühma enda korraldada.
 
 **22. oktoober**
 
@@ -46,7 +48,7 @@ Vahekokkuvõtete esitlemine. Grupitöö oli langenud passiivsesse seisundisse ni
 
 **13. november 2019**
 
-Lepiti kokku, et küsimustikkudele vastamise aeg on  2 nädalat al 18.11. Kinnitati küsimustiku viimane versioon. Vastuste kogumine lõppes 1. detsembril. Evelin edastas küsimustikud kooli ettenähtud ajal, kuid segastel põhjustel ei jõutud neid kohe sihtgruppidele edastada. Seetõttu jäi Järveotsa Gümnaasiumi küsimustikkudele  vastamise aeg veidi lühemaks kui 2 nädalat.Sellele vaatamata olid tulemused üle ootuste head.
+Ühisel koosoekul lepiti kokku, et küsimustikkudele vastamise aeg on  2 nädalat al 18.11. Kinnitati küsimustiku viimane versioon. Vastuste kogumine lõppes 1. detsembril. Evelin edastas küsimustikud kooli ettenähtud ajal, kuid segastel põhjustel ei jõutud neid kohe sihtgruppidele edastada. Seetõttu jäi Järveotsa Gümnaasiumi küsimustikkudele  vastamise aeg veidi lühemaks kui 2 nädalat. Sellele vaatamata olid tulemused üle ootuste head.
 
 **Detsembri 1. nädal**
 
