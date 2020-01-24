@@ -32,6 +32,16 @@ Kaalusime plaani kaasata Maanteeameti poolt loodud rakenduse “Ohutu koolitee�
 
 Paika sai spetsiifilisem plaan. Otsustasime, et koolide uurimise viime läbi küsitluste abil, mis on suunatud kooli õpilastele ja nende vanematele. Leppisime kokku, et küsimustikud esitame elektroonilisel kujul ning küsimustiku loob projekti 1. rühma liige Henry Arnhold. Enne küsimustike ülesehituse juurde asumist, arutasime veel läbi, mida oma projektiga saavutada soovime, millised on küsimused ja valukohad, mis vajaksid erilist tähelepanu. Oluliseimad teemad  kajastuvad ühiselt valminud küsimustikes (vt. lisad).
 
+**10. oktoober**
+
+Osalejad: Kõik liikmed, kuid osad liikmed pidid varem lahkuma.
+
+Teemad: Kooli valik, ülesannete jaotus, tulevane vahekokkuvõtete esitlemine
+
+Vastuvõetud otsused: Inesest saab grupijuht ning organiseerija, kooliks, kellega hakatakse koostööd tegema valiti Tallinna Järveotsa Gümnaasium, Evelin soovis kogu kooliga suhtlemise ning küsimustikkude edastamise enda ülesandeks võtta. Viktoria loob Drive keskkonda meie rühmale dokumendid vahekokkuvõtte ja teiste materjalide ühise ülesehituse tarbeks. Nika ja Cevin nõustusid olema esinejad 22. oktoobril toimuva vahekokkuvõtete esitlustel. Liza ja Kristi hooleks jäi vahekokkuvõtte kirjalikku poolde panustamine.
+
+Tulevased ülesanded: ülesanneteks on eelnevalt mainitud ülesannete täideviimine, vastavalt sellele, kes millise ülesande endale valis.
+
 **3.-15. oktoober**
 
 Grupisiseselt arutluse käigus jõusdime üksmeelele kooli valiku suhtes. Valitud kooliks sai Tallinna Järveotsa Gümnaasium.Kooli direktor oli meie projektist huvitatud ning lubas omalt poolt abi küsimustike edastamisel.Toimus kokkusaamine otseselt kooliga suhtleva tuumikgrupi liikmete vahel, kus otsustati milliseid konkreetseid samme on edasiseks tegevuseks.
