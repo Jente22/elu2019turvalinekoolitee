@@ -23,7 +23,8 @@ https://www.roheline.ee/userfiles/file/publikatsioonid/liiklus.html#1.%20peat%C3
 https://blog.stat.ee/tag/autostumine/ 
 https://www.europarl.europa.eu/news/et/headlines/priorities/transpordiohutuse-suurendamine/20190410STO36615/liiklussurmade-statistika-elis-infograafik
 https://elik.nlib.ee/2017-aastal-vahenes-elis-liiklussurmade-arv-koige-enam-eestis/
- 
+ https://www.europarl.europa.eu/news/et/headlines/priorities/transpordiohutuse-suurendamine/20190410STO36615/liiklussurmade-statistika-elis-infograafik
+https://www.sm.ee/et/rahvastiku-tervise-arengukava-aastani-2030
 http://www.pealinn.ee/tagid/koik/linna-keskkond-mojutab-arvatust-enam-inimese-tervist-n242884
 http://www.liikluskasvatus.ee/opetajale/uldhariduskool/ii-kooliaste/koolitee-kaardistamine/
  http://www.rahumae.tln.edu.ee/sisu/koolitee-ussimang-algklassidele
