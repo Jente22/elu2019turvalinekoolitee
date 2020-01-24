@@ -42,10 +42,6 @@ Vastuvõetud otsused: Inesest saab grupijuht ning organiseerija, kooliks, kelleg
 
 Tulevased ülesanded: ülesanneteks on eelnevalt mainitud ülesannete täideviimine, vastavalt sellele, kes millise ülesande endale valis.
 
-**3.-15. oktoober**
-
-Grupisiseselt arutluse käigus jõusdime üksmeelele kooli valiku suhtes. Valitud kooliks sai Tallinna Järveotsa Gümnaasium.Kooli direktor oli meie projektist huvitatud ning lubas omalt poolt abi küsimustike edastamisel.Toimus kokkusaamine otseselt kooliga suhtleva tuumikgrupi liikmete vahel, kus otsustati milliseid konkreetseid samme on edasiseks tegevuseks.
-
 **16. oktoober**
 
 Kuna projektiga on võimalik keskenduda väga mitmetele aspektidele, pidime veelkorra ühiselt oma teemasuunitluse peale mõtlema. Arutlesime, et ehk lapsevanemad ei leiagi, et koolitee oleks lastele ohtlik ning nad viivad lapsi kooli autoga mugavuse vms. eesmärgi tõttu. Vältimaks lõpptulemuste kaldumist projekti eesmärkidest eemale, korraldas iga rühm test-intervjuu ühe lapsevanemaga, mille põhjal saime kindlust oma projekti suunitluse suhtes. Meie rühma test-intervjuu viis läbi ja edastas kõigile rühmadele Kristi Beljajev.
