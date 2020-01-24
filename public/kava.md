@@ -39,24 +39,24 @@ Kaalusime plaani kaasata Maanteeameti poolt loodud rakenduse “Ohutu koolitee�
 
 Paika sai spetsiifilisem plaan. Otsustasime, et koolide uurimise viime läbi küsitluste abil, mis on suunatud kooli õpilastele ja nende vanematele. Leppisime kokku, et küsimustikud esitame elektroonilisel kujul ning küsimustiku loob projekti 1. rühma liige Henry Arnhold. Enne küsimustike ülesehituse juurde asumist, arutasime veel läbi, mida oma projektiga saavutada soovime, millised on küsimused ja valukohad, mis vajaksid erilist tähelepanu. Oluliseimad teemad  kajastuvad ühiselt valminud küsimustikes (vt. lisad).
 
-Lühiaruanne 02.10.2019 üldkohtumisele:
+**Lühiaruanne 02.10.2019 üldkohtumisele:**
 
-Teemad: Vahekokkuvõtted allikatest, mida uuriti projekti teoreetilise osa tarbeks, tagasiside Maanteeameti rakendusele, koolide kohta info kogumise viiside kokkuleppimine.
-Vastuvõetud otsused: Otsustati, et Maanteeameti rakendust projektis kasutusele ei võeta, kuna selle kasutamine on laste jaoks keerukas ning see ei annaks meile piisavas koguses vajalikku pädevat infot; küsimustikud jõuavad laste ning lapsevanemateni elektroonilisel teel, selle eest vastutab 1. rühma liige Henry Arnhold; küsimustikkude ülesehitamine vajab pikemat perioodi ning nende ülesehitus saab toimuma tulevastel üldkohtumistel.
+*Teemad:* Vahekokkuvõtted allikatest, mida uuriti projekti teoreetilise osa tarbeks, tagasiside Maanteeameti rakendusele, koolide kohta info kogumise viiside kokkuleppimine.
+*Vastuvõetud otsused:* Otsustati, et Maanteeameti rakendust projektis kasutusele ei võeta, kuna selle kasutamine on laste jaoks keerukas ning see ei annaks meile piisavas koguses vajalikku pädevat infot; küsimustikud jõuavad laste ning lapsevanemateni elektroonilisel teel, selle eest vastutab 1. rühma liige Henry Arnhold; küsimustikkude ülesehitamine vajab pikemat perioodi ning nende ülesehitus saab toimuma tulevastel üldkohtumistel.
 
-Tulevased ülesanded: iga rühm peab laiali hakkama jagama rühmasiseseid ülesandeid, tuleb ära otsustada lõplikult oma koolivalik, luua kooliga esmased kontaktid, alustada tuleks ka projekti teoreetilise tausta loomisega läbitöötatud materjalide põhjal.
+*Tulevased* ülesanded: iga rühm peab laiali hakkama jagama rühmasiseseid ülesandeid, tuleb ära otsustada lõplikult oma koolivalik, luua kooliga esmased kontaktid, alustada tuleks ka projekti teoreetilise tausta loomisega läbitöötatud materjalide põhjal.
 
 **10. oktoober**
 
-Lühiaruanne 10.10.2019 grupikoosolekule: 
+**Lühiaruanne 10.10.2019 grupikoosolekule:** 
 
-Osalejad: Kõik liikmed, kuid osad liikmed pidid varem lahkuma.
+*Osalejad:* Kõik liikmed, kuid osad liikmed pidid varem lahkuma.
 
-Teemad: Kooli valik, ülesannete jaotus, tulevane vahekokkuvõtete esitlemine
+*Teemad:* Kooli valik, ülesannete jaotus, tulevane vahekokkuvõtete esitlemine
 
-Vastuvõetud otsused: Inesest saab grupijuht ning organiseerija, kooliks, kellega hakatakse koostööd tegema valiti Tallinna Järveotsa Gümnaasium, Evelin soovis kogu kooliga suhtlemise ning küsimustikkude edastamise enda ülesandeks võtta. Viktoria loob Drive keskkonda meie rühmale dokumendid vahekokkuvõtte ja teiste materjalide ühise ülesehituse tarbeks. Nika ja Cevin nõustusid olema esinejad 22. oktoobril toimuva vahekokkuvõtete esitlustel. Liza ja Kristi hooleks jäi vahekokkuvõtte kirjalikku poolde panustamine.
+*Vastuvõetud otsused:* Inesest saab grupijuht ning organiseerija, kooliks, kellega hakatakse koostööd tegema valiti Tallinna Järveotsa Gümnaasium, Evelin soovis kogu kooliga suhtlemise ning küsimustikkude edastamise enda ülesandeks võtta. Viktoria loob Drive keskkonda meie rühmale dokumendid vahekokkuvõtte ja teiste materjalide ühise ülesehituse tarbeks. Nika ja Cevin nõustusid olema esinejad 22. oktoobril toimuva vahekokkuvõtete esitlustel. Liza ja Kristi hooleks jäi vahekokkuvõtte kirjalikku poolde panustamine.
 
-Tulevased ülesanded: ülesanneteks on eelnevalt mainitud ülesannete täideviimine, vastavalt sellele, kes millise ülesande endale valis.
+*Tulevased ülesanded:* ülesanneteks on eelnevalt mainitud ülesannete täideviimine, vastavalt sellele, kes millise ülesande endale valis.
 
 **16. oktoober**
 
@@ -64,35 +64,33 @@ Kuna projektiga on võimalik keskenduda väga mitmetele aspektidele, pidime veel
 
 Testintervjuude analüüsid valmisid veidi enne vahekokkuvõtete esitlemist ja tulemused oli ootuspärased. Loodi valmis küsimustikud kuid nende edastamisviis ning muu sellega kaasnev jäi iga rühma enda korraldada.
 
-Lühiaruanne 16.10.2019 üldkohtumisele: 
+**Lühiaruanne 16.10.2019 üldkohtumisele:** 
 
-Osalejad: üldkohtumine
+*Osalejad:* üldkohtumine
 
-Teemad: Teema laiaulatuslikkuse tõttu pidime tegema plaanivälise üldkohtumise, et lõplikult kitsendada projekti suunitlust ja edasisi käike, testinterjvuu korraldamine küsimustikkude pädevuse kontrollimiseks.
+*Teemad:* Teema laiaulatuslikkuse tõttu pidime tegema plaanivälise üldkohtumise, et lõplikult kitsendada projekti suunitlust ja edasisi käike, testinterjvuu korraldamine küsimustikkude pädevuse kontrollimiseks.
 
-Vastuvõetud otsused: Enne vahekokkuvõtteid toimuvad testintervjuud, mille peab iga rühm läbi viima, meie rühmas oli testintervjuu läbiviijaks Kristi. 
+*Vastuvõetud otsused:* Enne vahekokkuvõtteid toimuvad testintervjuud, mille peab iga rühm läbi viima, meie rühmas oli testintervjuu läbiviijaks Kristi. 
 
-Tulevased ülesanded: testintervjuude läbiviimine, vahekokkuvõtete loomine ning nende esitamine.
+*Tulevased ülesanded:* testintervjuude läbiviimine, vahekokkuvõtete loomine ning nende esitamine.
 
 **22. oktoober**
 
 Vahekokkuvõtete esitlemine. Grupitöö oli langenud passiivsesse seisundisse ning seega jäi vahekokkuvõtte kirjaliku osa valmimine üsna viimasele hetkele. Grupijuht tuletas korduvalt rühmaliikmetele meelde, et vahearvestus läheneb ning oleks vaja abi vahekokkuvõtte koostamisel. Kirjaliku kokkuvõtte lõpliku versiooni valmistasid Ines ja Kristi. Vahekokkuvõtte esitlejaks määrati Cevin ja Nika. Esitluse päeval aga ilmnes, et Cevin ei saa esitlusest osa võtta ning Ines võttis sujuvalt selle ülesande enda kanda. Ajanappuse ja kohati puuduliku ettevalmistuse tõttu said meie esitlus ja projekt oodatust rohkem kriitikat.
 
-**13. november 2019**
-
-Osalejad: üldkohtumine
+**13. november**
 
 Ühisel koosoekul lepiti kokku, et küsimustikkudele vastamise aeg on  2 nädalat al 18.11. Kinnitati küsimustiku viimane versioon. Vastuste kogumine lõppes 1. detsembril. Evelin edastas küsimustikud kooli ettenähtud ajal, kuid segastel põhjustel ei jõutud neid kohe sihtgruppidele edastada. Seetõttu jäi Järveotsa Gümnaasiumi küsimustikkudele  vastamise aeg veidi lühemaks kui 2 nädalat. Sellele vaatamata olid tulemused üle ootuste head.
 
-LÜhiaruanne 13.11.2019 üldkoosolekule: 
+**Lühiaruanne 13.11.2019 üldkohtumisele:**
 
-Osalejad: üldkohtumine
+*Osalejad:* üldkohtumine
 
-Teemad: Küsimustikke puudutavad küsimused, plaanid seoses lõpuesitlusega.
+*Teemad:* Küsimustikke puudutavad küsimused, plaanid seoses lõpuesitlusega.
 
-Vastuvõetud otsused: Küsimustikkudele vastamiseks on õpilastel ja nende vanematel aega detsembrikuuni, esitluse kuupäevaks valiti 12. detsember, esitlus toimub kolme rühma koostöös.
+*Vastuvõetud otsused:* Küsimustikkudele vastamiseks on õpilastel ja nende vanematel aega detsembrikuuni, esitluse kuupäevaks valiti 12. detsember, esitlus toimub kolme rühma koostöös.
 
-Tulevased ülesanded: iga rühm vastutab, et küsimustikud oleksid õigeks ajaks edastatud ning tulemid olemas detsembri esimesteks päevadeks. Iga rühm valib ühe esineja lõpuesitluseks, meie rühma esinejaks oli Cevin. Ühiselt luuakse esitlus 12. detsembri tarbeks ning alustada tuleks portfooliote kirjutamisega.
+*Tulevased ülesanded:* iga rühm vastutab, et küsimustikud oleksid õigeks ajaks edastatud ning tulemid olemas detsembri esimesteks päevadeks. Iga rühm valib ühe esineja lõpuesitluseks, meie rühma esinejaks oli Cevin. Ühiselt luuakse esitlus 12. detsembri tarbeks ning alustada tuleks portfooliote kirjutamisega.
 
 
 **Detsembri 1. nädal**
@@ -103,15 +101,17 @@ Esimese rühma liige Henry jagab küsitluste tulemused koolide kaupa, et grupid 
 
 Esitlus kulges sujuvalt ,ette planeeritult, arusaadavalt  ja sai kuulajaskonnalt sooja vastuvõtu.
 
-**19. detsember - grupikohtumine**
+**19. detsember**
 
-Osalejad: Ines, Kristi, Evelin, Liza, Nika, Viktoria
+**Lühiaruanne 19.12.2019 grupikohtumisele:** 
 
-Teemad: portfoolio ning viimaste ülesannete planeerimine
+*Osalejad:* Ines, Kristi, Evelin, Liza, Nika, Viktoria
 
-Vastuvõetud otsused: Portfoolio koostamine jätkub ühiselt, kontakti hoitakse juhendajaga, et vajadusel teha parandusi ning täita võimalikke teisi ülesandeid, mida meilt nõutakse. Kuna enamus projektist on läbi, siis kindlaid ülesannete jaotusi enam ei toimu.
+*Teemad:* portfoolio ning viimaste ülesannete planeerimine
 
-Tulevased ülesanded: portfoolio valmis kirjutamine, sellele sobiliku esitusformaadi leidmine (otsustasime veebilehe kasuks), juhendaja poolt esitatud ülesannete täitmine ja enesereflektsioonide kirjutamine, projekti otsade kokku tõmbamine. 
+*Vastuvõetud otsused:* Portfoolio koostamine jätkub ühiselt, kontakti hoitakse juhendajaga, et vajadusel teha parandusi ning täita võimalikke teisi ülesandeid, mida meilt nõutakse. Kuna enamus projektist on läbi, siis kindlaid ülesannete jaotusi enam ei toimu.
+
+*Tulevased ülesanded:* portfoolio valmis kirjutamine, sellele sobiliku esitusformaadi leidmine (otsustasime veebilehe kasuks), juhendaja poolt esitatud ülesannete täitmine ja enesereflektsioonide kirjutamine, projekti otsade kokku tõmbamine. 
 
 **Detsember-jaanuar**
 
