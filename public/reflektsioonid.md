@@ -17,6 +17,7 @@ Projekt „Turvaline koolitee“ kõnetas ELU projektide hulgast enim just isikl
 Kuigi Pean ELU kontseptsiooni huvitavaks ja tänuväärseks, siis erinevate gruppide juhuslikkuse alusel moodustamisel julgesin sünergia tekkimise kahtluse alla seada. Meie grupi dünaamika ja koostöö käima saamine lonkas ühte või kahte jalga kogu projekti jooksul. Selles mängisid rolli grupiliikmete erinevad ajalise võimalused, huvi, motivatsioon ja kindlasti veel paljud nimetamata faktorid. Ühtsus jäi lõpuni leidmata ja koostöö sujus nurgeliselt. Siiski viisid projektis osalejad end ajapikku, pigem hiljem, kui varem, kogu projekti puudutavaga kurssi ja tulemus sai jõu ja nõuga, rohkem vist jõuga, kokku pandud. Isiklikult õppisin projekti käigus hindama oma võimeid ja leidma abi ka grupiväliselt (teistelt sama teemage tegelevatelt gruppidelt), kui see vajalikuks osutus. Ka projekti lõpptulemust analüüsides leidsin, et see annab väga sisuka infopagasi Järveotsa gümnaasiumile nende kooli ümbruses toimuvast. Kokkuvõtvalt tsiteeriksin klassikuid:“ Hea, eet see veel niigi läits!“
 
 Lisaks blogis välja toodud linkidele, viisin end portfooliot täiendades ja redigeerides kurssi ka allolevate üldisfmat laadi liiklusohutuse- ja linnaliikluse teemaliste artiklitega, et leida ühisosi ja mõtteid.
+
 Road Safetey 2017, How is you country doing? 
 https://ec.europa.eu/transport/road_safety/sites/roadsafety/files/pdf/scoreboard_2017_en.pdf
 Road safety in the European Union. Trends, statistics and main chalanges, april 2018
