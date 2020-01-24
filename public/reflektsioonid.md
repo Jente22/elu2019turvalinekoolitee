@@ -17,16 +17,25 @@ Projekt „Turvaline koolitee“ kõnetas ELU projektide hulgast enim just isikl
 Kuigi Pean ELU kontseptsiooni huvitavaks ja tänuväärseks, siis erinevate gruppide juhuslikkuse alusel moodustamisel julgesin sünergia tekkimise kahtluse alla seada. Meie grupi dünaamika ja koostöö käima saamine lonkas ühte või kahte jalga kogu projekti jooksul. Selles mängisid rolli grupiliikmete erinevad ajalise võimalused, huvi, motivatsioon ja kindlasti veel paljud nimetamata faktorid. Ühtsus jäi lõpuni leidmata ja koostöö sujus nurgeliselt. Siiski viisid projektis osalejad end ajapikku, pigem hiljem, kui varem, kogu projekti puudutavaga kurssi ja tulemus sai jõu ja nõuga, rohkem vist jõuga, kokku pandud. Isiklikult õppisin projekti käigus hindama oma võimeid ja leidma abi ka grupiväliselt (teistelt sama teemage tegelevatelt gruppidelt), kui see vajalikuks osutus. Ka projekti lõpptulemust analüüsides leidsin, et see annab väga sisuka infopagasi Järveotsa gümnaasiumile nende kooli ümbruses toimuvast. Kokkuvõtvalt tsiteeriksin klassikuid:“ Hea, eet see veel niigi läits!“
 
 Lisaks blogis välja toodud linkidele, viisin end portfooliot täiendades ja redigeerides kurssi ka allolevate üldisfmat laadi liiklusohutuse- ja linnaliikluse teemaliste artiklitega, et leida ühisosi ja mõtteid.
+Road Safetey 2017, How is you country doing? 
 https://ec.europa.eu/transport/road_safety/sites/roadsafety/files/pdf/scoreboard_2017_en.pdf
+Road safety in the European Union. Trends, statistics and main chalanges, april 2018
 https://ec.europa.eu/transport/road_safety/sites/roadsafety/files/vademecum_2018.pdf
+Keskkonnajuht 1/97
 https://www.roheline.ee/userfiles/file/publikatsioonid/liiklus.html#1.%20peat%C3%BCkk
+Statistikablogi, Autostumisest Eestis ja Euroopas – luksusesemest on saanud igapäevane tarbeese, september 2018
 https://blog.stat.ee/tag/autostumine/ 
+Liiklussurmade statistika ELis (infograafik)29.04.2019
 https://www.europarl.europa.eu/news/et/headlines/priorities/transpordiohutuse-suurendamine/20190410STO36615/liiklussurmade-statistika-elis-infograafik
+Euroopa Liidu Infokeskus, "2017. aastal vähenes ELis liiklussurmade arv kõige enam Eestis", 11.04.2018
 https://elik.nlib.ee/2017-aastal-vahenes-elis-liiklussurmade-arv-koige-enam-eestis/
- https://www.europarl.europa.eu/news/et/headlines/priorities/transpordiohutuse-suurendamine/20190410STO36615/liiklussurmade-statistika-elis-infograafik
+Sotsiaalministeerium, Rahvastiku tervise arengukava 2020-2030, 18.06.2018
 https://www.sm.ee/et/rahvastiku-tervise-arengukava-aastani-2030
+Pealinn, "Linna keskkond mõjutab arvatust enam inimese tervist", 07.06.2019
 http://www.pealinn.ee/tagid/koik/linna-keskkond-mojutab-arvatust-enam-inimese-tervist-n242884
+Liikluskasvatus, Koolitee kaardistamine, 2019
 http://www.liikluskasvatus.ee/opetajale/uldhariduskool/ii-kooliaste/koolitee-kaardistamine/
+Tallinna Rahumäe Põhikool, "Koolitee ussimäng algklassidele" 18.09.2012
  http://www.rahumae.tln.edu.ee/sisu/koolitee-ussimang-algklassidele
 
 #### Kristi Beljajev
