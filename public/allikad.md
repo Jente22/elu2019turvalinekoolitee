@@ -11,6 +11,11 @@
   <li class="list-group-item">
     Inseneribüroo Stratum (2003). Kooliõpilaste koolitee ohutustamine. Tallinn.  (51-52) <a href="http://rahvatervis.ut.ee/bitstream/1/1232/1/Stratum2003_3.pdf">http://rahvatervis.ut.ee/bitstream/1/1232/1/Stratum2003_3.pdf</a>
   </li>
+  
+ <li class="list-group-item">
+  Tallinncity (2014) Lugejate vihjed: piirkonnad ja liinid, kus on Tallinna ühistranspordiga probleeme. Tallinn
+https://www.postimees.ee/2886201/lugejate-vihjed-piirkonnad-ja-liinid-kus-on-tallinna-uhistranspordiga-probleeme
+</li>
 
   <li class="list-group-item">
     Tartu Ülikool (2007). Tallinna arengukava 2008-2013 “turvaline koolitee”. Tartu: Tartu Ülikool. (8)
