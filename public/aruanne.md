@@ -14,7 +14,7 @@ Ohvrite arv liiklusõnnetustes on  viimastel aastatel kahanenud, kuid võrreldes
 
 Aastal 2001 oli Eestis kõige rohkem liikluses hukkunud lapsi miljoni elaniku kohta Euroopas. Aastaks 2017 olid küll Eestis liiklussurmad vähenendud 36% võrra kuid Euroopa Liidus oleme siiski kõrgel kuuendal kohal (ec.europa.eu; Road safety, 2017). Üheks põhjuseks on kindlasti liiklussageduse kasv, mis on võrdeline autode arvu kasvuga, mis omakorda tingib pingelisemad liiklussituatsioonid.
 
-Liiklusõnnetusega puututakse kokku tihtipeale just koolide  lähedused. Kasutatava ühistranspordi puhul ei saa kindel olla nende tehnilises seisukorras, liikumisgraafikus ning meedias on kajastatud ka olukordi, kus juhi pädevus tekitab küsimusi.
+Liiklusõnnetusega puututakse kokku tihtipeale just koolide  lähedused. Kasutatava ühistranspordi puhul ei saa kindel olla nende tehnilises seisukorras ja liikumisgraafikus. ( Tallincity, 2014)
 
 Tõenäoliselt on neid kooliõpilasi, kes eelistaksid koolis käia jalgratta või muu motoriseerimata liiklusvahediga, kuid takistuseks saab just puudulik või olematu infrastruktuur.(Stratum, 2003).
 
