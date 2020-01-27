@@ -1,4 +1,4 @@
-#### Projekti lähteülesande, eesmärgi kirjeldus
+#### Projekti lähteülesande ja eesmärgi kirjeldus
 
 Projekti esmaseks eesmärgiks on välja selgitada, kuidas hindavad  Tallinna lapsed ja lapsevanemad oma koolitee turvalisust. Lisaks püüame saada väärtuslikku infot, milliseid liikumisviise kasutavad lapsed kooli minemiseks ja sealt tulemiseks. Tõusva trendina on täheldatud, et lastevanemate seas on kombeks tuua lapsi kooli isikliku autoga. Keskendume lähemalt selle valiku põhjuste tagamaadele. Proovime leida vastuseid küsimusele, mis mõjutaksid lapsi ja lapsevanemaid tervislikemaid ja keskonnasõbralikemaid liikumisviise valima. Mida saab selleks teha Tallinna linn, et koolide ümbruses muutuks liikluskeskkond turvalisemaks ning tervise- ja keskonnasõbralikumad liikumisviisid muutuksid esmasteks valikuteks?
 
