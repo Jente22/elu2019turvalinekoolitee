@@ -6,7 +6,7 @@ Projekti tellijaks on Tallinna Linnavalistus ja saadud tulemused edastatakse lin
 
 #### Probleemi olulisus, kirjeldus ja meetodite valik
 
-Esmase probleemina tooksime välja liiklusõnnetuste rohkuse. On selge, et koolide ümbrus on lastega liiklusõnnetuste toimumise riskipiirkond, kuna sinna koondub suur osa lastega seotud liikumistest. Seetõttu on kindlasti vajalik määrata kindlaks just koolide ümbruses aset leidnud liiklusõnnetuste riskitegurid.
+Esmase probleemina tooksime välja liiklusõnnetuste rohkuse. On selge, et koolide ümbrus on lastega liiklusõnnetuste toimumise riskipiirkond, kuna sinna koondub suur osa lastega seotud liikumistest. Seetõttu on kindlasti vajalik määrata kindlaks just koolide ümbruses aset leidnud liiklusõnnetuste riskitegurid ( Inseneribüroo Stratum, 2003)
 
 Tallinna Järveotsa Gümnaasium kvalifitseerub kvartalisiseselt suhteliselt väikse liiklussagedusega, kuid reguleerimata liikluskorraldusega alaks. Lahendamata parkimiskorralduse tõttu suureneb liiklusoht märgatavalt. Samuti on probleemiks liikluse rahustamisvõtete puudumine, mistõttu juhid ei taju liiklusolukorda, kui jalakäijate liiklust soosivat. Selle tulemusena kasutatakse suuri sõidukiiruseid.
 
