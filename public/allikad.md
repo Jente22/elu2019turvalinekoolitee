@@ -9,7 +9,7 @@
 - Sotsiaalministeerium (2016). [Toitumise ja liikumise roheline raamat. Tallinn: Tallinna sotsiaalministeeriumi rahvatervise osakond, lk 13.](https://www.sm.ee/sites/default/files/content-editors/Tervishoid/tervise_roheline_raamat/toitumise_ja_liikumise_roheline_raamat_15.11versioon.pdf)
 - Tallinncity (2014). [Lugejate vihjed: piirkonnad ja liinid, kus on Tallinna ühistranspordiga probleeme. Tallinn.](https://www.postimees.ee/2886201/lugejate-vihjed-piirkonnad-ja-liinid-kus-on-tallinna-uhistranspordiga-probleeme)
 - Tammelin, T., Karvinen, J. (toim.) 2008. Fyysisen aktiivisuuden suositus kouluikäisille 7‒18‐vuotiaille. Helsinki: Opetusministeriö ja NuoriSuomiry.
-- Tartu Ülikool (2007). Tallinna arengukava 2008-2013 “turvaline koolitee”. Tartu: Tartu Ülikool, lk 8.
+- Tartu Ülikool (2007). Tallinna arengukava 2008-2013 “Turvaline koolitee”. Tartu: Tartu Ülikool, lk 8.
 - Tartu Ülikooli Liikumislabor, Tartu Ülikooli sporditeaduste ja Füsioteraapia instituut 2016. ["Eesti laste ja noorte liikumisaktiivsuse tunnistus 2018" Tartu: Tartu Ülikool](https://www.liikumakutsuvkool.ee/wp-content/uploads/2018/10/LAT2018.pdf)
 - Tester J., Binns H., Forman J., et al. (2009). The built environment: designing communities to promote physical activity in children. Pediatrics. 6;(6), lk 1591-1598.
 - World Health Organization. (2010). [Global Recommendations on Physical Activity for Health. Geneva.](https://www.who.int/dietphysicalactivity/global-PA-recs-2010.pdf)
