@@ -1,7 +1,7 @@
 - Aasvee, K., Eha, M., Härm, T., Liiv, K., Oja, L., Tael, M. (2012). [Eesti kooliõpilaste tervisekäitumine 2009/2010. õppeaasta Eesti HBSC uuringu raport. Tallinn: Tervise Arengu Instituut](https://intra.tai.ee//images/prints/documents/135591995867_Eesti_kooliopilaste_tervisekaitumine.pdf)
--Committee on Environmental Health. (2009). The Built Environment: Designing Communities to Promote Physical Activity in Children. Pediatrics. 123(6), 1591-1598.
--Euroopa Komisjon (2017). Road safety 2017. How is your country doing? Brüssel: Liikuvuse ja transpordi peadirektoraat.
--Euroopa Parlament (2019). [Liiklussurmade statistika ELis [infograafik]. Vaadatud 17.12.2019] (https://www.europarl.europa.eu/news/et/headlines/priorities/transpordiohutuse-suurendamine/20190410STO36615/liiklussurmade-statistika-elis-infograafik) 
+- Committee on Environmental Health. (2009). The Built Environment: Designing Communities to Promote Physical Activity in Children. Pediatrics. 123(6), 1591-1598.
+- Euroopa Komisjon (2017). Road safety 2017. How is your country doing? Brüssel: Liikuvuse ja transpordi peadirektoraat.
+- Euroopa Parlament (2019). [Liiklussurmade statistika ELis [infograafik]. Vaadatud 17.12.2019] (https://www.europarl.europa.eu/news/et/headlines/priorities/transpordiohutuse-suurendamine/20190410STO36615/liiklussurmade-statistika-elis-infograafik) 
 - Inseneribüroo Stratum (2003). [Kooliõpilaste koolitee ohutustamine. Tallinn.  (51-52).](http://rahvatervis.ut.ee/bitstream/1/1232/1/Stratum2003_3.pdf)
 - Mooses, K. (2017). [Physical activity and sedentary time of 7–13 year-old Estonian students in different school day segments and compliance with physical activity recommendations. Tartu: Tartu Ülikool, lk 9-10.](https://dspace.ut.ee/bitstream/handle/10062/56798/mooses_kerli.pdf)
 -Raag T., 2019 [Pealinn. Linna keskkond mõjutab arvatust enam inimese tervist. Vaadatud 8.10.2019 ](http://www.pealinn.ee/tagid/koik/linna-keskkond-mojutab-arvatust-enam-inimese-tervist-n242884)
