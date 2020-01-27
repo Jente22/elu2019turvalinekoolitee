@@ -38,7 +38,7 @@ Võimalused, mis on kogukonnas, mõjutavad laste liikumist. Keskkond, mis soodus
 
 Liikumine peaks lapsele olema nauditav ja pakkuma liikumisrõõmu ning sellel ei tohiks olla karistuslik eesmärk. Lastele tuleb anda  edasi teadmisi liikumise ja tervise vahelistest seostest ning arendada oskusi liikumise elukestvaks harrastamiseks.
 
-Kolmandaks puudutame autostumise probleemi, millel on tugev seos kahe eelneva valupunkti tekkepõhjusega. Lisandub veel suur koormus keskkonnale heitgaaside ja müra näol. Siinkohal on taaskord suurimaks kannatajaks just lapsed ja vanemaealised (Pealinn, 2019). On selge, et ei piisa ainult ühele valupunktile leeveduse või lahenduse otsimisest vaid tuleb vaadata suurt pilti korraga ja ka lahendus tuleb leida süsteemselt.
+Kolmandaks puudutame autostumise probleemi, millel on tugev seos kahe eelneva valupunkti tekkepõhjusega. Lisandub veel suur koormus keskkonnale heitgaaside ja müra näol. Siinkohal on taaskord suurimaks kannatajaks just lapsed ja vanemaealised. On selge, et ei piisa ainult ühele valupunktile leeveduse või lahenduse otsimisest vaid tuleb vaadata suurt pilti korraga ja ka lahendus tuleb leida süsteemselt.(Raag T., 2019)
 
 Selleks, et eelnimetatud probleemide lahendustele lähemale jõuda, leidsime, et tuleb pöörduda nende poole, kes valukohti kõige selgemalt tunnevad ja tajuvad. Sihtgrupiks sai valitud koolide õpilased ja nende vanemad. Erinevate alternatiivide kaalumisel jõudsime otsusele, et kõige lihtsam, kiirem ja mugavam  tee tänasel infoajastul on elektroonilise küsimustiku koostamine ning edastamine sihtgrupile. Maskimaalselt otsene kontakt probleemide keskmes oleva sihtgrupiga,  samuti anonüümsus, loovad head eelduse maksimaalselt realistlike vastuste tarvis.
 
